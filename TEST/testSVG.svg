@@ -1,0 +1,36 @@
+<svg width="500" height="500" xmlns="http://www.w3.org/2000/svg">
+    <!-- 带有平移变换的组 -->
+    <g transform="translate(50, 50)">
+        <!-- 简单矩形 -->
+        <rect x="10" y="10" width="50" height="50" fill="red" />
+        <!-- 带有多重变换的矩形 -->
+        <rect x="10" y="10" width="50" height="50" fill="red" transform="translate(100, 100) scale(1.5) rotate(30)"/>
+
+        <!-- 带有旋转变换的子组 -->
+        <g transform="rotate(45)">
+            <circle cx="100" cy="50" r="20" fill="green" />
+            <!-- 嵌套的具有缩放变换的子组 -->
+            <g transform="scale(0.5)">
+                <ellipse cx="160" cy="60" rx="15" ry="10" fill="orange" />
+            </g>
+        </g>
+    </g>
+
+    <!-- 带有路径的组 -->
+    <g >
+        <path d="M150,150 L200,200 L150,250 Z"/>
+         <!-- 复杂的路径 -->
+        <path d="M10,10 L50,50 Q100,15 150,50 T200,100 C250,150 300,100 350,150 L400,200" fill="yellow"/>
+        <path  d="M150,150 L200,200 L150,250 Z" fill="yellow"/>
+    </g>
+
+    <!-- 单独的椭圆 -->
+    <ellipse cx="300" cy="300" rx="30" ry="20" fill="purple" />
+
+    <!-- 多边形和折线 -->
+    <polygon points="400,10 450,30 400,50" fill="yellow" />
+    <polyline points="30,450 60,480 30,510" stroke="black" fill="none" />
+
+    <!-- 线段 -->
+    <line x1="300" y1="400" x2="350" y2="450" stroke="grey" />
+</svg>

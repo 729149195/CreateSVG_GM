@@ -1,0 +1,59 @@
+<svg width="500" height="500" xmlns="http://www.w3.org/2000/svg">
+  <!-- 第一层 -->
+  <rect x="10" y="10" width="100" height="50" stroke="black" fill="transparent" stroke-width="2" />
+  <circle cx="150" cy="35" r="25" stroke="red" fill="transparent" stroke-width="2" />
+  <rect x="10" y="10" width="100" height="50" stroke="black" fill="transparent" stroke-width="2" />
+  <circle cx="150" cy="35" r="25" stroke="red" fill="transparent" stroke-width="2" />
+
+  <!-- 第二层 -->
+  <g stroke="blue" stroke-width="2" fill="transparent" transform="translate(50, 50)">
+    <ellipse cx="250" cy="35" rx="50" ry="25" transform="translate(20, 20)"/>
+    <line x1="200" y1="10" x2="300" y2="60 " transform="translate(30, 30)"/>
+  </g>
+
+  <!-- 第三层 -->
+  <g fill="none" stroke-width="2">
+    <polyline points="350,10 380,40 350,70" stroke="green" />
+    <polygon points="420,10 450,40 420,70" stroke="purple" />
+  </g>
+
+  <!-- 第四层 -->
+  <g font-family="Verdana" font-size="12">
+    <text x="10" y="100" fill="black">test1</text>
+    <text x="10" y="120" fill="blue">test2</text>
+  </g>
+
+  <!-- 第五层 -->
+  <g fill="grey">
+    <path d="M10,150 L110,200" />
+    <path d="M10,200 Q60,150 110,200 T210,200" />
+    <g fill="grey">
+      <path d="M10,150 L110,200" />
+      <path d="M10,200 Q60,150 110,200 T210,200" />
+    </g>
+  </g>
+
+  <!-- 第六层 -->
+  <g stroke="orange" stroke-width="2">
+    <rect x="10" y="220" width="80" height="40" fill="yellow" />
+    <circle cx="150" cy="240" r="20" fill="lightgreen" />
+  </g>
+
+  <!-- 第七层 -->
+  <g fill="none" stroke="brown" stroke-width="2">
+    <ellipse cx="250" cy="240" rx="40" ry="20" />
+    <line x1="300" y1="220" x2="400" y2="260" />
+  </g>
+
+  <!-- 第八层 -->
+  <g stroke="black" fill="pink" stroke-width="2">
+    <polyline points="10,300 40,330 10,360" />
+    <polygon points="80,300 110,330 80,360" />
+  </g>
+
+  <!-- 第九层 -->
+  <g stroke="grey">
+    <path d="M150,300 L250,350" stroke-width="2" />
+    <path d="M150,350 Q200,300 250,350 T350,350" stroke-width="4" />
+  </g>
+</svg>

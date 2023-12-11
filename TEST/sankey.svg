@@ -1,0 +1,1009 @@
+<svg width="928" height="600" viewBox="0,0,928,600" style="max-width: 100%; height: auto; font: 10px sans-serif;"
+    xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g stroke="#000">
+        <rect x="1" y="133.27748272170646" height="17.56311729878132" width="15" fill="#1f77b4">
+            <title>Agricultural 'waste'
+                125 TWh</title>
+        </rect>
+        <rect x="131.14285714285714" y="137.96810154647167" height="54.76461284407415" width="15" fill="#ff7f0e">
+            <title>Bio-conversion
+                389 TWh</title>
+        </rect>
+        <rect x="261.2857142857143" y="470.1927115977623" height="91.18686465990987" width="15" fill="#2ca02c">
+            <title>Liquid
+                648 TWh</title>
+        </rect>
+        <rect x="912" y="5" height="123.67713203386623" width="15" fill="#d62728">
+            <title>Losses
+                878 TWh</title>
+        </rect>
+        <rect x="261.2857142857143" y="148.41881455507303" height="63.009754979665274" width="15" fill="#9467bd">
+            <title>Solid
+                447 TWh</title>
+        </rect>
+        <rect x="261.2857142857143" y="255.11008708677565" height="28.738942437840194" width="15" fill="#8c564b">
+            <title>Gas
+                204 TWh</title>
+        </rect>
+        <rect x="1" y="590.0716424772319" height="4.928357522768124" width="15" fill="#e377c2">
+            <title>Biofuel imports
+                35 TWh</title>
+        </rect>
+        <rect x="1" y="225.39393769781628" height="4.928357522768152" width="15" fill="#7f7f7f">
+            <title>Biomass imports
+                35 TWh</title>
+        </rect>
+        <rect x="1" y="250.93833991093044" height="1.6342433545498807" width="15" fill="#bcbd22">
+            <title>Coal imports
+                12 TWh</title>
+        </rect>
+        <rect x="131.14285714285714" y="234.51191617734708" height="10.641168752946044" width="15" fill="#bcbd22">
+            <title>Coal
+                76 TWh</title>
+        </rect>
+        <rect x="1" y="262.5725832654803" height="9.006925398396106" width="15" fill="#bcbd22">
+            <title>Coal reserves
+                64 TWh</title>
+        </rect>
+        <rect x="521.5714285714286" y="205.73652604676948" height="11.170333540676381" width="15" fill="#17becf">
+            <title>District heating
+                79 TWh</title>
+        </rect>
+        <rect x="912" y="209.22413747582902" height="80.11073315302576" width="15" fill="#1f77b4">
+            <title>Industry
+                569 TWh</title>
+        </rect>
+        <rect x="912" y="378.5461292416852" height="18.891661676704757" width="15" fill="#ff7f0e">
+            <title>Heating and cooling - commercial
+                134 TWh</title>
+        </rect>
+        <rect x="912" y="299.3348706288548" height="52.40942118905082" width="15" fill="#ff7f0e">
+            <title>Heating and cooling - homes
+                372 TWh</title>
+        </rect>
+        <rect x="521.5714285714286" y="231.83785300816862" height="129.34924911192752" width="15" fill="#2ca02c">
+            <title>Electricity grid
+                919 TWh</title>
+        </rect>
+        <rect x="912" y="138.67713203386623" height="14.708049380734309" width="15" fill="#d62728">
+            <title>Over generation / exports
+                104 TWh</title>
+        </rect>
+        <rect x="651.7142857142857" y="348.7844425752514" height="3.821589233369366" width="15" fill="#9467bd">
+            <title>H2 conversion
+                27 TWh</title>
+        </rect>
+        <rect x="912" y="427.63725091545774" height="27.39167030133035" width="15" fill="#8c564b">
+            <title>Road transport
+                195 TWh</title>
+        </rect>
+        <rect x="912" y="361.7442918179056" height="1.5531366707466532" width="15" fill="#e377c2">
+            <title>Agriculture
+                11 TWh</title>
+        </rect>
+        <rect x="912" y="407.43779091838996" height="1.7285861985571955" width="15" fill="#7f7f7f">
+            <title>Rail transport
+                12 TWh</title>
+        </rect>
+        <rect x="912" y="163.38518141460054" height="12.674045825980443" width="15" fill="#bcbd22">
+            <title>Lighting &amp; appliances - commercial
+                90 TWh</title>
+        </rect>
+        <rect x="912" y="186.05922724058098" height="13.164910235248044" width="15" fill="#bcbd22">
+            <title>Lighting &amp; appliances - homes
+                93 TWh</title>
+        </rect>
+        <rect x="1" y="313.71411055643614" height="5.733651141988446" width="15" fill="#8c564b">
+            <title>Gas imports
+                41 TWh</title>
+        </rect>
+        <rect x="131.14285714285714" y="320.2698822032435" height="17.312897546839622" width="15" fill="#17becf">
+            <title>Ngas
+                123 TWh</title>
+        </rect>
+        <rect x="1" y="340.4327291519035" height="11.579246404851176" width="15" fill="#8c564b">
+            <title>Gas reserves
+                82 TWh</title>
+        </rect>
+        <rect x="391.42857142857144" y="9.4847870087135" height="196.0062702788711" width="15" fill="#1f77b4">
+            <title>Thermal generation
+                1,392 TWh</title>
+        </rect>
+        <rect x="1" y="302.72660851908836" height="0.987502037347781" width="15" fill="#ff7f0e">
+            <title>Geothermal
+                7 TWh</title>
+        </rect>
+        <rect x="781.8571428571429" y="352.3997073387428" height="2.9425110615223957" width="15" fill="#9467bd">
+            <title>H2
+                21 TWh</title>
+        </rect>
+        <rect x="1" y="329.4477616984246" height="0.9849674534789301" width="15" fill="#2ca02c">
+            <title>Hydro
+                7 TWh</title>
+        </rect>
+        <rect x="912" y="465.0289212167881" height="18.12086656014378" width="15" fill="#d62728">
+            <title>International shipping
+                129 TWh</title>
+        </rect>
+        <rect x="912" y="493.1497877769319" height="2.0358340875479826" width="15" fill="#9467bd">
+            <title>Domestic aviation
+                14 TWh</title>
+        </rect>
+        <rect x="912" y="505.18562186447986" height="29.044500604251823" width="15" fill="#d62728">
+            <title>International aviation
+                206 TWh</title>
+        </rect>
+        <rect x="912" y="544.2301224687317" height="4.677433719751889" width="15" fill="#8c564b">
+            <title>National navigation
+                33 TWh</title>
+        </rect>
+        <rect x="1" y="240.32229522058444" height="0.6160446903460013" width="15" fill="#e377c2">
+            <title>Marine algae
+                4 TWh</title>
+        </rect>
+        <rect x="1" y="5" height="118.27748272170648" width="15" fill="#7f7f7f">
+            <title>Nuclear
+                840 TWh</title>
+        </rect>
+        <rect x="1" y="483.89719903840705" height="71.0087608595478" width="15" fill="#bcbd22">
+            <title>Oil imports
+                504 TWh</title>
+        </rect>
+        <rect x="131.14285714285714" y="476.5343041796083" height="86.17444343882482" width="15" fill="#bcbd22">
+            <title>Oil
+                612 TWh</title>
+        </rect>
+        <rect x="1" y="564.9059598979549" height="15.165682579277018" width="15" fill="#bcbd22">
+            <title>Oil reserves
+                108 TWh</title>
+        </rect>
+        <rect x="1" y="196.4694672410314" height="18.92447045678489" width="15" fill="#17becf">
+            <title>Other waste
+                134 TWh</title>
+        </rect>
+        <rect x="1" y="436.7658269801524" height="37.13137205825467" width="15" fill="#1f77b4">
+            <title>Pumped heat
+                264 TWh</title>
+        </rect>
+        <rect x="131.14285714285714" y="255.15308493029312" height="8.434672684895247" width="15" fill="#ff7f0e">
+            <title>Solar PV
+                60 TWh</title>
+        </rect>
+        <rect x="131.14285714285714" y="273.58775761518837" height="2.71242717031663" width="15" fill="#ff7f0e">
+            <title>Solar Thermal
+                19 TWh</title>
+        </rect>
+        <rect x="1" y="281.5795086638764" height="11.147099855211934" width="15" fill="#ff7f0e">
+            <title>Solar
+                79 TWh</title>
+        </rect>
+        <rect x="1" y="362.0119755567547" height="1.330938151577243" width="15" fill="#2ca02c">
+            <title>Tidal
+                9 TWh</title>
+        </rect>
+        <rect x="1" y="160.84060002048778" height="25.62886722054361" width="15" fill="#d62728">
+            <title>UK land based bioenergy
+                182 TWh</title>
+        </rect>
+        <rect x="1" y="373.34291370833193" height="2.6772246165826346" width="15" fill="#9467bd">
+            <title>Wave
+                19 TWh</title>
+        </rect>
+        <rect x="1" y="386.02013832491457" height="40.745688655237814" width="15" fill="#8c564b">
+            <title>Wind
+                289 TWh</title>
+        </rect>
+    </g>
+    <g fill="none" stroke-opacity="0.5">
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-1" gradientUnits="userSpaceOnUse" x1="16" x2="131.14285714285714">
+                <stop offset="0%" stop-color="#1f77b4" />
+                <stop offset="100%" stop-color="#ff7f0e" />
+            </linearGradient>
+            <path
+                d="M16,142.05904137109712C73.57142857142857,142.05904137109712,73.57142857142857,146.74966019586233,131.14285714285714,146.74966019586233"
+                stroke="url(#O-link-1)" stroke-width="17.563117298781318" />
+            <title>Agricultural 'waste' → Bio-conversion
+                125 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-2" gradientUnits="userSpaceOnUse" x1="146.14285714285714" x2="261.2857142857143">
+                <stop offset="0%" stop-color="#ff7f0e" />
+                <stop offset="100%" stop-color="#2ca02c" />
+            </linearGradient>
+            <path
+                d="M146.14285714285714,192.69068254138736C203.71428571428572,192.69068254138736,203.71428571428572,470.2347434469208,261.2857142857143,470.2347434469208"
+                stroke="url(#O-link-2)" stroke-width="1" />
+            <title>Bio-conversion → Liquid
+                1 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-3" gradientUnits="userSpaceOnUse" x1="146.14285714285714" x2="912">
+                <stop offset="0%" stop-color="#ff7f0e" />
+                <stop offset="100%" stop-color="#d62728" />
+            </linearGradient>
+            <path
+                d="M146.14285714285714,139.8593235432802C529.0714285714286,139.8593235432802,529.0714285714286,117.72702566935014,912,117.72702566935014"
+                stroke="url(#O-link-3)" stroke-width="3.782443993617072" />
+            <title>Bio-conversion → Losses
+                27 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-4" gradientUnits="userSpaceOnUse" x1="146.14285714285714" x2="261.2857142857143">
+                <stop offset="0%" stop-color="#ff7f0e" />
+                <stop offset="100%" stop-color="#9467bd" />
+            </linearGradient>
+            <path
+                d="M146.14285714285714,161.486646075766C203.71428571428572,161.486646075766,203.71428571428572,168.15491509075028,261.2857142857143,168.15491509075028"
+                stroke="url(#O-link-4)" stroke-width="39.47220107135451" />
+            <title>Bio-conversion → Solid
+                280 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-5" gradientUnits="userSpaceOnUse" x1="146.14285714285714" x2="261.2857142857143">
+                <stop offset="0%" stop-color="#ff7f0e" />
+                <stop offset="100%" stop-color="#8c564b" />
+            </linearGradient>
+            <path
+                d="M146.14285714285714,186.93569865183608C203.71428571428572,186.93569865183608,203.71428571428572,260.82303912716844,261.2857142857143,260.82303912716844"
+                stroke="url(#O-link-5)" stroke-width="11.425904080785635" />
+            <title>Bio-conversion → Gas
+                81 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-6" gradientUnits="userSpaceOnUse" x1="16" x2="261.2857142857143">
+                <stop offset="0%" stop-color="#e377c2" />
+                <stop offset="100%" stop-color="#2ca02c" />
+            </linearGradient>
+            <path
+                d="M16,592.535821238616C138.64285714285714,592.535821238616,138.64285714285714,558.9153974962882,261.2857142857143,558.9153974962882"
+                stroke="url(#O-link-6)" stroke-width="4.92835752276813" />
+            <title>Biofuel imports → Liquid
+                35 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-7" gradientUnits="userSpaceOnUse" x1="16" x2="261.2857142857143">
+                <stop offset="0%" stop-color="#7f7f7f" />
+                <stop offset="100%" stop-color="#9467bd" />
+            </linearGradient>
+            <path
+                d="M16,227.85811645920035C138.64285714285714,227.85811645920035,138.64285714285714,198.32322202040817,261.2857142857143,198.32322202040817"
+                stroke="url(#O-link-7)" stroke-width="4.92835752276813" />
+            <title>Biomass imports → Solid
+                35 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-8" gradientUnits="userSpaceOnUse" x1="16" x2="131.14285714285714">
+                <stop offset="0%" stop-color="#bcbd22" />
+                <stop offset="100%" stop-color="#bcbd22" />
+            </linearGradient>
+            <path
+                d="M16,251.7554615882054C73.57142857142857,251.7554615882054,73.57142857142857,235.32903785462204,131.14285714285714,235.32903785462204"
+                stroke="url(#O-link-8)" stroke-width="1.634243354549912" />
+            <title>Coal imports → Coal
+                12 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-9" gradientUnits="userSpaceOnUse" x1="16" x2="131.14285714285714">
+                <stop offset="0%" stop-color="#bcbd22" />
+                <stop offset="100%" stop-color="#bcbd22" />
+            </linearGradient>
+            <path
+                d="M16,267.07604596467837C73.57142857142857,267.07604596467837,73.57142857142857,240.64962223109504,131.14285714285714,240.64962223109504"
+                stroke="url(#O-link-9)" stroke-width="9.006925398396099" />
+            <title>Coal reserves → Coal
+                64 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-10" gradientUnits="userSpaceOnUse" x1="146.14285714285714"
+                x2="261.2857142857143">
+                <stop offset="0%" stop-color="#bcbd22" />
+                <stop offset="100%" stop-color="#9467bd" />
+            </linearGradient>
+            <path
+                d="M146.14285714285714,239.83250055382007C203.71428571428572,239.83250055382007,203.71428571428572,206.10798515826522,261.2857142857143,206.10798515826522"
+                stroke="url(#O-link-10)" stroke-width="10.641168752946012" />
+            <title>Coal → Solid
+                76 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-11" gradientUnits="userSpaceOnUse" x1="536.5714285714286" x2="912">
+                <stop offset="0%" stop-color="#17becf" />
+                <stop offset="100%" stop-color="#1f77b4" />
+            </linearGradient>
+            <path
+                d="M536.5714285714286,206.48556598512278C724.2857142857142,206.48556598512278,724.2857142857142,216.51761377377358,912,216.51761377377358"
+                stroke="url(#O-link-11)" stroke-width="1.4980798767065753" />
+            <title>District heating → Industry
+                11 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-12" gradientUnits="userSpaceOnUse" x1="536.5714285714286" x2="912">
+                <stop offset="0%" stop-color="#17becf" />
+                <stop offset="100%" stop-color="#ff7f0e" />
+            </linearGradient>
+            <path
+                d="M536.5714285714286,215.32225183366097C724.2857142857142,215.32225183366097,724.2857142857142,380.1305961852552,912,380.1305961852552"
+                stroke="url(#O-link-12)" stroke-width="3.1689338871399078" />
+            <title>District heating → Heating and cooling - commercial
+                23 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-13" gradientUnits="userSpaceOnUse" x1="536.5714285714286" x2="912">
+                <stop offset="0%" stop-color="#17becf" />
+                <stop offset="100%" stop-color="#ff7f0e" />
+            </linearGradient>
+            <path
+                d="M536.5714285714286,210.48619540678354C724.2857142857142,210.48619540678354,724.2857142857142,302.5864601121623,912,302.5864601121623"
+                stroke="url(#O-link-13)" stroke-width="6.503178966614953" />
+            <title>District heating → Heating and cooling - homes
+                46 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-14" gradientUnits="userSpaceOnUse" x1="536.5714285714286" x2="912">
+                <stop offset="0%" stop-color="#2ca02c" />
+                <stop offset="100%" stop-color="#d62728" />
+            </linearGradient>
+            <path
+                d="M536.5714285714286,247.17454959348572C724.2857142857142,247.17454959348572,724.2857142857142,146.03115672423337,912,146.03115672423337"
+                stroke="url(#O-link-14)" stroke-width="14.708049380734273" />
+            <title>Electricity grid → Over generation / exports
+                104 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-15" gradientUnits="userSpaceOnUse" x1="536.5714285714286" x2="912">
+                <stop offset="0%" stop-color="#2ca02c" />
+                <stop offset="100%" stop-color="#ff7f0e" />
+            </linearGradient>
+            <path
+                d="M536.5714285714286,340.37633802402564C724.2857142857142,340.37633802402564,724.2857142857142,313.8449408473887,912,313.8449408473887"
+                stroke="url(#O-link-15)" stroke-width="16.013782503837955" />
+            <title>Electricity grid → Heating and cooling - homes
+                114 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-16" gradientUnits="userSpaceOnUse" x1="536.5714285714286" x2="651.7142857142857">
+                <stop offset="0%" stop-color="#2ca02c" />
+                <stop offset="100%" stop-color="#9467bd" />
+            </linearGradient>
+            <path
+                d="M536.5714285714286,330.45865215542193C594.1428571428571,330.45865215542193,594.1428571428571,350.69523719193603,651.7142857142857,350.69523719193603"
+                stroke="url(#O-link-16)" stroke-width="3.8215892333693446" />
+            <title>Electricity grid → H2 conversion
+                27 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-17" gradientUnits="userSpaceOnUse" x1="536.5714285714286" x2="912">
+                <stop offset="0%" stop-color="#2ca02c" />
+                <stop offset="100%" stop-color="#1f77b4" />
+            </linearGradient>
+            <path
+                d="M536.5714285714286,304.4576939419093C724.2857142857142,304.4576939419093,724.2857142857142,241.35681730895482,912,241.35681730895482"
+                stroke="url(#O-link-17)" stroke-width="48.18032719365593" />
+            <title>Electricity grid → Industry
+                342 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-18" gradientUnits="userSpaceOnUse" x1="536.5714285714286" x2="912">
+                <stop offset="0%" stop-color="#2ca02c" />
+                <stop offset="100%" stop-color="#8c564b" />
+            </linearGradient>
+            <path
+                d="M536.5714285714286,358.5260002731238C724.2857142857142,358.5260002731238,724.2857142857142,430.2983527624301,912,430.2983527624301"
+                stroke="url(#O-link-18)" stroke-width="5.322203693944772" />
+            <title>Electricity grid → Road transport
+                38 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-19" gradientUnits="userSpaceOnUse" x1="536.5714285714286" x2="912">
+                <stop offset="0%" stop-color="#2ca02c" />
+                <stop offset="100%" stop-color="#e377c2" />
+            </linearGradient>
+            <path
+                d="M536.5714285714286,348.6938566100939C724.2857142857142,348.6938566100939,724.2857142857142,362.1791137616287,912,362.1791137616287"
+                stroke="url(#O-link-19)" stroke-width="1" />
+            <title>Electricity grid → Agriculture
+                4 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-20" gradientUnits="userSpaceOnUse" x1="536.5714285714286" x2="912">
+                <stop offset="0%" stop-color="#2ca02c" />
+                <stop offset="100%" stop-color="#ff7f0e" />
+            </linearGradient>
+            <path
+                d="M536.5714285714286,351.8810958251755C724.2857142857142,351.8810958251755,724.2857142857142,384.5916750097574,912,384.5916750097574"
+                stroke="url(#O-link-20)" stroke-width="5.753223761864579" />
+            <title>Electricity grid → Heating and cooling - commercial
+                41 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-21" gradientUnits="userSpaceOnUse" x1="536.5714285714286" x2="912">
+                <stop offset="0%" stop-color="#2ca02c" />
+                <stop offset="100%" stop-color="#d62728" />
+            </linearGradient>
+            <path
+                d="M536.5714285714286,235.8291889556436C724.2857142857142,235.8291889556436,724.2857142857142,123.60958361363366,912,123.60958361363366"
+                stroke="url(#O-link-21)" stroke-width="7.982671894949946" />
+            <title>Electricity grid → Losses
+                57 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-22" gradientUnits="userSpaceOnUse" x1="536.5714285714286" x2="912">
+                <stop offset="0%" stop-color="#2ca02c" />
+                <stop offset="100%" stop-color="#7f7f7f" />
+            </linearGradient>
+            <path
+                d="M536.5714285714286,355.31130306612965C724.2857142857142,355.31130306612965,724.2857142857142,407.99138627841177,912,407.99138627841177"
+                stroke="url(#O-link-22)" stroke-width="1.1071907200435946" />
+            <title>Electricity grid → Rail transport
+                8 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-23" gradientUnits="userSpaceOnUse" x1="536.5714285714286" x2="912">
+                <stop offset="0%" stop-color="#2ca02c" />
+                <stop offset="100%" stop-color="#bcbd22" />
+            </linearGradient>
+            <path
+                d="M536.5714285714286,260.86559719684305C724.2857142857142,260.86559719684305,724.2857142857142,169.72220432759073,912,169.72220432759073"
+                stroke="url(#O-link-23)" stroke-width="12.674045825980397" />
+            <title>Electricity grid → Lighting &amp; appliances - commercial
+                90 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-24" gradientUnits="userSpaceOnUse" x1="536.5714285714286" x2="912">
+                <stop offset="0%" stop-color="#2ca02c" />
+                <stop offset="100%" stop-color="#bcbd22" />
+            </linearGradient>
+            <path
+                d="M536.5714285714286,273.78507522745736C724.2857142857142,273.78507522745736,724.2857142857142,192.64168235820503,912,192.64168235820503"
+                stroke="url(#O-link-24)" stroke-width="13.164910235248103" />
+            <title>Electricity grid → Lighting &amp; appliances - homes
+                93 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-25" gradientUnits="userSpaceOnUse" x1="16" x2="131.14285714285714">
+                <stop offset="0%" stop-color="#8c564b" />
+                <stop offset="100%" stop-color="#17becf" />
+            </linearGradient>
+            <path
+                d="M16,316.58093612743033C73.57142857142857,316.58093612743033,73.57142857142857,323.1367077742377,131.14285714285714,323.1367077742377"
+                stroke="url(#O-link-25)" stroke-width="5.733651141988443" />
+            <title>Gas imports → Ngas
+                41 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-26" gradientUnits="userSpaceOnUse" x1="16" x2="131.14285714285714">
+                <stop offset="0%" stop-color="#8c564b" />
+                <stop offset="100%" stop-color="#17becf" />
+            </linearGradient>
+            <path
+                d="M16,346.22235235432913C73.57142857142857,346.22235235432913,73.57142857142857,331.7931565476576,131.14285714285714,331.7931565476576"
+                stroke="url(#O-link-26)" stroke-width="11.579246404851192" />
+            <title>Gas reserves → Ngas
+                82 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-27" gradientUnits="userSpaceOnUse" x1="276.2857142857143" x2="912">
+                <stop offset="0%" stop-color="#8c564b" />
+                <stop offset="100%" stop-color="#ff7f0e" />
+            </linearGradient>
+            <path
+                d="M276.2857142857143,283.8399472657525C594.1428571428571,283.8399472657525,594.1428571428571,387.4773691495531,912,387.4773691495531"
+                stroke="url(#O-link-27)" stroke-width="1" />
+            <title>Gas → Heating and cooling - commercial
+                0 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-28" gradientUnits="userSpaceOnUse" x1="276.2857142857143" x2="912">
+                <stop offset="0%" stop-color="#8c564b" />
+                <stop offset="100%" stop-color="#d62728" />
+            </linearGradient>
+            <path
+                d="M276.2857142857143,255.20872464233847C594.1428571428571,255.20872464233847,594.1428571428571,127.69955711667146,912,127.69955711667146"
+                stroke="url(#O-link-28)" stroke-width="1" />
+            <title>Gas → Losses
+                1 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-29" gradientUnits="userSpaceOnUse" x1="276.2857142857143"
+                x2="391.42857142857144">
+                <stop offset="0%" stop-color="#8c564b" />
+                <stop offset="100%" stop-color="#1f77b4" />
+            </linearGradient>
+            <path
+                d="M276.2857142857143,266.00126437634094C333.8571428571429,266.00126437634094,333.8571428571429,194.79715510914494,391.42857142857144,194.79715510914494"
+                stroke="url(#O-link-29)" stroke-width="21.387804356879258" />
+            <title>Gas → Thermal generation
+                152 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-30" gradientUnits="userSpaceOnUse" x1="276.2857142857143" x2="912">
+                <stop offset="0%" stop-color="#8c564b" />
+                <stop offset="100%" stop-color="#e377c2" />
+            </linearGradient>
+            <path
+                d="M276.2857142857143,283.683295901636C594.1428571428571,283.683295901636,594.1428571428571,362.6373102010312,912,362.6373102010312"
+                stroke="url(#O-link-30)" stroke-width="1" />
+            <title>Gas → Agriculture
+                2 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-31" gradientUnits="userSpaceOnUse" x1="276.2857142857143" x2="912">
+                <stop offset="0%" stop-color="#8c564b" />
+                <stop offset="100%" stop-color="#1f77b4" />
+            </linearGradient>
+            <path
+                d="M276.2857142857143,280.11544667558167C594.1428571428571,280.11544667558167,594.1428571428571,268.86726102658383,912,268.86726102658383"
+                stroke="url(#O-link-31)" stroke-width="6.840560241602165" />
+            <title>Gas → Industry
+                49 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-32" gradientUnits="userSpaceOnUse" x1="16" x2="521.5714285714286">
+                <stop offset="0%" stop-color="#ff7f0e" />
+                <stop offset="100%" stop-color="#2ca02c" />
+            </linearGradient>
+            <path
+                d="M16,303.22035953776225C268.7857142857143,303.22035953776225,268.7857142857143,314.76640977739083,521.5714285714286,314.76640977739083"
+                stroke="url(#O-link-32)" stroke-width="1" />
+            <title>Geothermal → Electricity grid
+                7 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-33" gradientUnits="userSpaceOnUse" x1="666.7142857142857" x2="781.8571428571429">
+                <stop offset="0%" stop-color="#9467bd" />
+                <stop offset="100%" stop-color="#9467bd" />
+            </linearGradient>
+            <path
+                d="M666.7142857142857,351.13463546764456C724.2857142857142,351.13463546764456,724.2857142857142,353.870962869504,781.8571428571429,353.870962869504"
+                stroke="url(#O-link-33)" stroke-width="2.9425110615224463" />
+            <title>H2 conversion → H2
+                21 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-34" gradientUnits="userSpaceOnUse" x1="666.7142857142857" x2="912">
+                <stop offset="0%" stop-color="#9467bd" />
+                <stop offset="100%" stop-color="#d62728" />
+            </linearGradient>
+            <path
+                d="M666.7142857142857,349.22391125606737C789.3571428571429,349.22391125606737,789.3571428571429,128.23766335305027,912,128.23766335305027"
+                stroke="url(#O-link-34)" stroke-width="1" />
+            <title>H2 conversion → Losses
+                6 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-35" gradientUnits="userSpaceOnUse" x1="796.8571428571429" x2="912">
+                <stop offset="0%" stop-color="#9467bd" />
+                <stop offset="100%" stop-color="#8c564b" />
+            </linearGradient>
+            <path
+                d="M796.8571428571429,353.870962869504C854.4285714285714,353.870962869504,854.4285714285714,434.43071014016374,912,434.43071014016374"
+                stroke="url(#O-link-35)" stroke-width="2.9425110615224463" />
+            <title>H2 → Road transport
+                21 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-36" gradientUnits="userSpaceOnUse" x1="16" x2="521.5714285714286">
+                <stop offset="0%" stop-color="#2ca02c" />
+                <stop offset="100%" stop-color="#2ca02c" />
+            </linearGradient>
+            <path
+                d="M16,329.94024542516405C268.7857142857143,329.94024542516405,268.7857142857143,315.7526445228042,521.5714285714286,315.7526445228042"
+                stroke="url(#O-link-36)" stroke-width="1" />
+            <title>Hydro → Electricity grid
+                7 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-37" gradientUnits="userSpaceOnUse" x1="276.2857142857143" x2="912">
+                <stop offset="0%" stop-color="#2ca02c" />
+                <stop offset="100%" stop-color="#1f77b4" />
+            </linearGradient>
+            <path
+                d="M276.2857142857143,478.71637633849724C594.1428571428571,478.71637633849724,594.1428571428571,280.8112058881199,912,280.8112058881199"
+                stroke="url(#O-link-37)" stroke-width="17.0473294814699" />
+            <title>Liquid → Industry
+                121 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-38" gradientUnits="userSpaceOnUse" x1="276.2857142857143" x2="912">
+                <stop offset="0%" stop-color="#2ca02c" />
+                <stop offset="100%" stop-color="#d62728" />
+            </linearGradient>
+            <path
+                d="M276.2857142857143,516.5613745660486C594.1428571428571,516.5613745660486,594.1428571428571,474.08935449686,912,474.08935449686"
+                stroke="url(#O-link-38)" stroke-width="18.120866560143735" />
+            <title>Liquid → International shipping
+                129 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-39" gradientUnits="userSpaceOnUse" x1="276.2857142857143" x2="912">
+                <stop offset="0%" stop-color="#2ca02c" />
+                <stop offset="100%" stop-color="#8c564b" />
+            </linearGradient>
+            <path
+                d="M276.2857142857143,497.9374635130452C594.1428571428571,497.9374635130452,594.1428571428571,445.46544344385654,912,445.46544344385654"
+                stroke="url(#O-link-39)" stroke-width="19.126955545863115" />
+            <title>Liquid → Road transport
+                136 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-40" gradientUnits="userSpaceOnUse" x1="276.2857142857143" x2="912">
+                <stop offset="0%" stop-color="#2ca02c" />
+                <stop offset="100%" stop-color="#9467bd" />
+            </linearGradient>
+            <path
+                d="M276.2857142857143,526.6397248898945C594.1428571428571,526.6397248898945,594.1428571428571,494.1677048207059,912,494.1677048207059"
+                stroke="url(#O-link-40)" stroke-width="2.0358340875480465" />
+            <title>Liquid → Domestic aviation
+                14 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-41" gradientUnits="userSpaceOnUse" x1="276.2857142857143" x2="912">
+                <stop offset="0%" stop-color="#2ca02c" />
+                <stop offset="100%" stop-color="#d62728" />
+            </linearGradient>
+            <path
+                d="M276.2857142857143,542.1798922357946C594.1428571428571,542.1798922357946,594.1428571428571,519.7078721666057,912,519.7078721666057"
+                stroke="url(#O-link-41)" stroke-width="29.044500604251827" />
+            <title>Liquid → International aviation
+                206 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-42" gradientUnits="userSpaceOnUse" x1="276.2857142857143" x2="912">
+                <stop offset="0%" stop-color="#2ca02c" />
+                <stop offset="100%" stop-color="#e377c2" />
+            </linearGradient>
+            <path
+                d="M276.2857142857143,487.49631567041615C594.1428571428571,487.49631567041615,594.1428571428571,363.04115389746835,912,363.04115389746835"
+                stroke="url(#O-link-42)" stroke-width="1" />
+            <title>Liquid → Agriculture
+                4 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-43" gradientUnits="userSpaceOnUse" x1="276.2857142857143" x2="912">
+                <stop offset="0%" stop-color="#2ca02c" />
+                <stop offset="100%" stop-color="#8c564b" />
+            </linearGradient>
+            <path
+                d="M276.2857142857143,559.0408593977963C594.1428571428571,559.0408593977963,594.1428571428571,546.5688393286075,912,546.5688393286075"
+                stroke="url(#O-link-43)" stroke-width="4.6774337197517655" />
+            <title>Liquid → National navigation
+                33 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-44" gradientUnits="userSpaceOnUse" x1="276.2857142857143" x2="912">
+                <stop offset="0%" stop-color="#2ca02c" />
+                <stop offset="100%" stop-color="#7f7f7f" />
+            </linearGradient>
+            <path
+                d="M276.2857142857143,488.06328800085686C594.1428571428571,488.06328800085686,594.1428571428571,408.85567937769036,912,408.85567937769036"
+                stroke="url(#O-link-44)" stroke-width="1" />
+            <title>Liquid → Rail transport
+                4 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-45" gradientUnits="userSpaceOnUse" x1="16" x2="131.14285714285714">
+                <stop offset="0%" stop-color="#e377c2" />
+                <stop offset="100%" stop-color="#ff7f0e" />
+            </linearGradient>
+            <path
+                d="M16,240.63031756575745C73.57142857142857,240.63031756575745,73.57142857142857,192.42455123515788,131.14285714285714,192.42455123515788"
+                stroke="url(#O-link-45)" stroke-width="1" />
+            <title>Marine algae → Bio-conversion
+                4 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-46" gradientUnits="userSpaceOnUse" x1="146.14285714285714"
+                x2="261.2857142857143">
+                <stop offset="0%" stop-color="#17becf" />
+                <stop offset="100%" stop-color="#8c564b" />
+            </linearGradient>
+            <path
+                d="M146.14285714285714,328.92633097666334C203.71428571428572,328.92633097666334,203.71428571428572,275.1924399409811,261.2857142857143,275.1924399409811"
+                stroke="url(#O-link-46)" stroke-width="17.312897546839633" />
+            <title>Ngas → Gas
+                123 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-47" gradientUnits="userSpaceOnUse" x1="16" x2="391.42857142857144">
+                <stop offset="0%" stop-color="#7f7f7f" />
+                <stop offset="100%" stop-color="#1f77b4" />
+            </linearGradient>
+            <path
+                d="M16,64.13874136085326C203.71428571428572,64.13874136085326,203.71428571428572,68.62352836956677,391.42857142857144,68.62352836956677"
+                stroke="url(#O-link-47)" stroke-width="118.27748272170653" />
+            <title>Nuclear → Thermal generation
+                840 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-48" gradientUnits="userSpaceOnUse" x1="16" x2="131.14285714285714">
+                <stop offset="0%" stop-color="#bcbd22" />
+                <stop offset="100%" stop-color="#bcbd22" />
+            </linearGradient>
+            <path
+                d="M16,519.4015794681809C73.57142857142857,519.4015794681809,73.57142857142857,512.0386846093821,131.14285714285714,512.0386846093821"
+                stroke="url(#O-link-48)" stroke-width="71.00876085954778" />
+            <title>Oil imports → Oil
+                504 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-49" gradientUnits="userSpaceOnUse" x1="16" x2="131.14285714285714">
+                <stop offset="0%" stop-color="#bcbd22" />
+                <stop offset="100%" stop-color="#bcbd22" />
+            </linearGradient>
+            <path
+                d="M16,572.4888011875934C73.57142857142857,572.4888011875934,73.57142857142857,555.1259063287946,131.14285714285714,555.1259063287946"
+                stroke="url(#O-link-49)" stroke-width="15.165682579277028" />
+            <title>Oil reserves → Oil
+                108 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-50" gradientUnits="userSpaceOnUse" x1="146.14285714285714"
+                x2="261.2857142857143">
+                <stop offset="0%" stop-color="#bcbd22" />
+                <stop offset="100%" stop-color="#2ca02c" />
+            </linearGradient>
+            <path
+                d="M146.14285714285714,519.6215258990206C203.71428571428572,519.6215258990206,203.71428571428572,513.3639970154916,261.2857142857143,513.3639970154916"
+                stroke="url(#O-link-50)" stroke-width="86.17444343882481" />
+            <title>Oil → Liquid
+                612 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-51" gradientUnits="userSpaceOnUse" x1="16" x2="261.2857142857143">
+                <stop offset="0%" stop-color="#17becf" />
+                <stop offset="100%" stop-color="#9467bd" />
+            </linearGradient>
+            <path
+                d="M16,211.40992388151793C138.64285714285714,211.40992388151793,138.64285714285714,191.87502944272583,261.2857142857143,191.87502944272583"
+                stroke="url(#O-link-51)" stroke-width="7.968027632596578" />
+            <title>Other waste → Solid
+                57 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-52" gradientUnits="userSpaceOnUse" x1="16" x2="131.14285714285714">
+                <stop offset="0%" stop-color="#17becf" />
+                <stop offset="100%" stop-color="#ff7f0e" />
+            </linearGradient>
+            <path
+                d="M16,201.9476886531255C73.57142857142857,201.9476886531255,73.57142857142857,186.63830747789075,131.14285714285714,186.63830747789075"
+                stroke="url(#O-link-52)" stroke-width="10.956442824188235" />
+            <title>Other waste → Bio-conversion
+                78 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-53" gradientUnits="userSpaceOnUse" x1="16" x2="912">
+                <stop offset="0%" stop-color="#1f77b4" />
+                <stop offset="100%" stop-color="#ff7f0e" />
+            </linearGradient>
+            <path d="M16,450.35584325429295C464,450.35584325429295,464,338.15427554376487,912,338.15427554376487"
+                stroke="url(#O-link-53)" stroke-width="27.18003254828118" />
+            <title>Pumped heat → Heating and cooling - homes
+                193 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-54" gradientUnits="userSpaceOnUse" x1="16" x2="912">
+                <stop offset="0%" stop-color="#1f77b4" />
+                <stop offset="100%" stop-color="#ff7f0e" />
+            </linearGradient>
+            <path d="M16,468.9215292834203C464,468.9215292834203,464,392.46212116340325,912,392.46212116340325"
+                stroke="url(#O-link-54)" stroke-width="9.951339509973408" />
+            <title>Pumped heat → Heating and cooling - commercial
+                71 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-55" gradientUnits="userSpaceOnUse" x1="146.14285714285714"
+                x2="521.5714285714286">
+                <stop offset="0%" stop-color="#ff7f0e" />
+                <stop offset="100%" stop-color="#2ca02c" />
+            </linearGradient>
+            <path
+                d="M146.14285714285714,259.37042127274077C333.85714285714283,259.37042127274077,333.85714285714283,310.05532241626935,521.5714285714286,310.05532241626935"
+                stroke="url(#O-link-55)" stroke-width="8.434672684895252" />
+            <title>Solar PV → Electricity grid
+                60 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-56" gradientUnits="userSpaceOnUse" x1="146.14285714285714" x2="912">
+                <stop offset="0%" stop-color="#ff7f0e" />
+                <stop offset="100%" stop-color="#ff7f0e" />
+            </linearGradient>
+            <path
+                d="M146.14285714285714,274.9439712003467C529.0714285714286,274.9439712003467,529.0714285714286,323.208045684466,912,323.208045684466"
+                stroke="url(#O-link-56)" stroke-width="2.712427170316643" />
+            <title>Solar Thermal → Heating and cooling - homes
+                19 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-57" gradientUnits="userSpaceOnUse" x1="16" x2="131.14285714285714">
+                <stop offset="0%" stop-color="#ff7f0e" />
+                <stop offset="100%" stop-color="#ff7f0e" />
+            </linearGradient>
+            <path
+                d="M16,291.37039493393C73.57142857142857,291.37039493393,73.57142857142857,274.9439712003467,131.14285714285714,274.9439712003467"
+                stroke="url(#O-link-57)" stroke-width="2.712427170316643" />
+            <title>Solar → Solar Thermal
+                19 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-58" gradientUnits="userSpaceOnUse" x1="16" x2="131.14285714285714">
+                <stop offset="0%" stop-color="#ff7f0e" />
+                <stop offset="100%" stop-color="#ff7f0e" />
+            </linearGradient>
+            <path
+                d="M16,285.7968450063241C73.57142857142857,285.7968450063241,73.57142857142857,259.37042127274077,131.14285714285714,259.37042127274077"
+                stroke="url(#O-link-58)" stroke-width="8.434672684895252" />
+            <title>Solar → Solar PV
+                60 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-59" gradientUnits="userSpaceOnUse" x1="276.2857142857143" x2="912">
+                <stop offset="0%" stop-color="#9467bd" />
+                <stop offset="100%" stop-color="#e377c2" />
+            </linearGradient>
+            <path
+                d="M276.2857142857143,211.36633141973644C594.1428571428571,211.36633141973644,594.1428571428571,361.8063891226925,912,361.8063891226925"
+                stroke="url(#O-link-59)" stroke-width="1" />
+            <title>Solid → Agriculture
+                1 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-60" gradientUnits="userSpaceOnUse" x1="276.2857142857143"
+                x2="391.42857142857144">
+                <stop offset="0%" stop-color="#9467bd" />
+                <stop offset="100%" stop-color="#1f77b4" />
+            </linearGradient>
+            <path
+                d="M276.2857142857143,176.58930615521567C333.8571428571429,176.58930615521567,333.8571428571429,155.93276133056267,391.42857142857144,155.93276133056267"
+                stroke="url(#O-link-60)" stroke-width="56.34098320028527" />
+            <title>Solid → Thermal generation
+                400 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-61" gradientUnits="userSpaceOnUse" x1="276.2857142857143" x2="912">
+                <stop offset="0%" stop-color="#9467bd" />
+                <stop offset="100%" stop-color="#1f77b4" />
+            </linearGradient>
+            <path
+                d="M276.2857142857143,208.03201593515394C594.1428571428571,208.03201593515394,594.1428571428571,212.49635565562465,912,212.49635565562465"
+                stroke="url(#O-link-61)" stroke-width="6.544436359591268" />
+            <title>Solid → Industry
+                46 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-62" gradientUnits="userSpaceOnUse" x1="406.42857142857144"
+                x2="521.5714285714286">
+                <stop offset="0%" stop-color="#1f77b4" />
+                <stop offset="100%" stop-color="#2ca02c" />
+            </linearGradient>
+            <path
+                d="M406.42857142857144,168.490990754758C464,168.490990754758,464,268.8379195409952,521.5714285714286,268.8379195409952"
+                stroke="url(#O-link-62)" stroke-width="74.00013306565309" />
+            <title>Thermal generation → Electricity grid
+                526 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-63" gradientUnits="userSpaceOnUse" x1="406.42857142857144" x2="912">
+                <stop offset="0%" stop-color="#1f77b4" />
+                <stop offset="100%" stop-color="#d62728" />
+            </linearGradient>
+            <path
+                d="M406.42857142857144,64.9026888449843C659.2142857142858,64.9026888449843,659.2142857142858,60.4179018362708,912,60.4179018362708"
+                stroke="url(#O-link-63)" stroke-width="110.8358036725416" />
+            <title>Thermal generation → Losses
+                787 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-64" gradientUnits="userSpaceOnUse" x1="406.42857142857144"
+                x2="521.5714285714286">
+                <stop offset="0%" stop-color="#1f77b4" />
+                <stop offset="100%" stop-color="#17becf" />
+            </linearGradient>
+            <path
+                d="M406.42857142857144,125.90575745159329C464,125.90575745159329,464,211.32169281710767,521.5714285714286,211.32169281710767"
+                stroke="url(#O-link-64)" stroke-width="11.17033354067637" />
+            <title>Thermal generation → District heating
+                79 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-65" gradientUnits="userSpaceOnUse" x1="16" x2="521.5714285714286">
+                <stop offset="0%" stop-color="#2ca02c" />
+                <stop offset="100%" stop-color="#2ca02c" />
+            </linearGradient>
+            <path
+                d="M16,362.6774446325433C268.7857142857143,362.6774446325433,268.7857142857143,316.9105973253323,521.5714285714286,316.9105973253323"
+                stroke="url(#O-link-65)" stroke-width="1.3309381515772678" />
+            <title>Tidal → Electricity grid
+                9 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-66" gradientUnits="userSpaceOnUse" x1="16" x2="131.14285714285714">
+                <stop offset="0%" stop-color="#d62728" />
+                <stop offset="100%" stop-color="#ff7f0e" />
+            </linearGradient>
+            <path
+                d="M16,173.6550336307596C73.57142857142857,173.6550336307596,73.57142857142857,168.34565245552483,131.14285714285714,168.34565245552483"
+                stroke="url(#O-link-66)" stroke-width="25.62886722054364" />
+            <title>UK land based bioenergy → Bio-conversion
+                182 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-67" gradientUnits="userSpaceOnUse" x1="16" x2="521.5714285714286">
+                <stop offset="0%" stop-color="#9467bd" />
+                <stop offset="100%" stop-color="#2ca02c" />
+            </linearGradient>
+            <path
+                d="M16,374.68152601662325C268.7857142857143,374.68152601662325,268.7857142857143,318.9146787094122,521.5714285714286,318.9146787094122"
+                stroke="url(#O-link-67)" stroke-width="2.677224616582585" />
+            <title>Wave → Electricity grid
+                19 TWh</title>
+        </g>
+        <g style="mix-blend-mode: multiply;">
+            <linearGradient id="O-link-68" gradientUnits="userSpaceOnUse" x1="16" x2="521.5714285714286">
+                <stop offset="0%" stop-color="#8c564b" />
+                <stop offset="100%" stop-color="#2ca02c" />
+            </linearGradient>
+            <path
+                d="M16,406.3929826525335C268.7857142857143,406.3929826525335,268.7857142857143,340.6261353453224,521.5714285714286,340.6261353453224"
+                stroke="url(#O-link-68)" stroke-width="40.74568865523779" />
+            <title>Wind → Electricity grid
+                289 TWh</title>
+        </g>
+    </g>
+    <g><text x="22" y="142.05904137109712" dy="0.35em" text-anchor="start">Agricultural 'waste'</text><text
+            x="152.14285714285714" y="165.35040796850876" dy="0.35em" text-anchor="start">Bio-conversion</text><text
+            x="282.2857142857143" y="515.7861439277173" dy="0.35em" text-anchor="start">Liquid</text><text x="906"
+            y="66.83856601693311" dy="0.35em" text-anchor="end">Losses</text><text x="282.2857142857143"
+            y="179.92369204490566" dy="0.35em" text-anchor="start">Solid</text><text x="282.2857142857143"
+            y="269.4795583056957" dy="0.35em" text-anchor="start">Gas</text><text x="22" y="592.5358212386159"
+            dy="0.35em" text-anchor="start">Biofuel imports</text><text x="22" y="227.85811645920035" dy="0.35em"
+            text-anchor="start">Biomass imports</text><text x="22" y="251.75546158820538" dy="0.35em"
+            text-anchor="start">Coal imports</text><text x="152.14285714285714" y="239.8325005538201" dy="0.35em"
+            text-anchor="start">Coal</text><text x="22" y="267.07604596467837" dy="0.35em" text-anchor="start">Coal
+            reserves</text><text x="515.5714285714286" y="211.32169281710767" dy="0.35em" text-anchor="end">District
+            heating</text><text x="906" y="249.2795040523419" dy="0.35em" text-anchor="end">Industry</text><text x="906"
+            y="387.9919600800376" dy="0.35em" text-anchor="end">Heating and cooling - commercial</text><text x="906"
+            y="325.5395812233802" dy="0.35em" text-anchor="end">Heating and cooling - homes</text><text
+            x="515.5714285714286" y="296.5124775641324" dy="0.35em" text-anchor="end">Electricity grid</text><text
+            x="906" y="146.03115672423337" dy="0.35em" text-anchor="end">Over generation / exports</text><text
+            x="645.7142857142857" y="350.69523719193603" dy="0.35em" text-anchor="end">H2 conversion</text><text x="906"
+            y="441.3330860661229" dy="0.35em" text-anchor="end">Road transport</text><text x="906"
+            y="362.52086015327893" dy="0.35em" text-anchor="end">Agriculture</text><text x="906" y="408.30208401766856"
+            dy="0.35em" text-anchor="end">Rail transport</text><text x="906" y="169.72220432759076" dy="0.35em"
+            text-anchor="end">Lighting &amp; appliances - commercial</text><text x="906" y="192.641682358205"
+            dy="0.35em" text-anchor="end">Lighting &amp; appliances - homes</text><text x="22" y="316.5809361274304"
+            dy="0.35em" text-anchor="start">Gas imports</text><text x="152.14285714285714" y="328.92633097666334"
+            dy="0.35em" text-anchor="start">Ngas</text><text x="22" y="346.22235235432913" dy="0.35em"
+            text-anchor="start">Gas reserves</text><text x="412.42857142857144" y="107.48792214814907" dy="0.35em"
+            text-anchor="start">Thermal generation</text><text x="22" y="303.22035953776225" dy="0.35em"
+            text-anchor="start">Geothermal</text><text x="775.8571428571429" y="353.870962869504" dy="0.35em"
+            text-anchor="end">H2</text><text x="22" y="329.94024542516405" dy="0.35em"
+            text-anchor="start">Hydro</text><text x="906" y="474.08935449686" dy="0.35em"
+            text-anchor="end">International shipping</text><text x="906" y="494.16770482070586" dy="0.35em"
+            text-anchor="end">Domestic aviation</text><text x="906" y="519.7078721666057" dy="0.35em"
+            text-anchor="end">International aviation</text><text x="906" y="546.5688393286076" dy="0.35em"
+            text-anchor="end">National navigation</text><text x="22" y="240.63031756575742" dy="0.35em"
+            text-anchor="start">Marine algae</text><text x="22" y="64.13874136085323" dy="0.35em"
+            text-anchor="start">Nuclear</text><text x="22" y="519.4015794681809" dy="0.35em" text-anchor="start">Oil
+            imports</text><text x="152.14285714285714" y="519.6215258990208" dy="0.35em"
+            text-anchor="start">Oil</text><text x="22" y="572.4888011875934" dy="0.35em" text-anchor="start">Oil
+            reserves</text><text x="22" y="205.93170246942384" dy="0.35em" text-anchor="start">Other waste</text><text
+            x="22" y="455.3315130092797" dy="0.35em" text-anchor="start">Pumped heat</text><text x="152.14285714285714"
+            y="259.3704212727407" dy="0.35em" text-anchor="start">Solar PV</text><text x="152.14285714285714"
+            y="274.9439712003467" dy="0.35em" text-anchor="start">Solar Thermal</text><text x="22"
+            y="287.15305859148236" dy="0.35em" text-anchor="start">Solar</text><text x="22" y="362.6774446325433"
+            dy="0.35em" text-anchor="start">Tidal</text><text x="22" y="173.6550336307596" dy="0.35em"
+            text-anchor="start">UK land based bioenergy</text><text x="22" y="374.68152601662325" dy="0.35em"
+            text-anchor="start">Wave</text><text x="22" y="406.3929826525335" dy="0.35em"
+            text-anchor="start">Wind</text></g>
+    <g>
+        <text transform="translate(0, 3920)">
+            Sankey diagram
+            This Sankey diagram visualizes the flow of energy: supplies are on the left, and demands are on the right.
+            Links show how varying amounts of energy are converted or transmitted before being consumed or lost. Data:
+            Department of Energy & Climate Change via Tom Counsell
+        </text>
+        <a transform="translate(0, 3930)"
+            xlink:href="https://observablehq.com/@d3/sankey/2?intent=fork"><text>url</text></a>
+    </g>
+</svg>

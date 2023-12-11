@@ -1,0 +1,1576 @@
+<svg viewBox="-115.2,-740,1152,1825" width="1152" height="1825"
+    style="max-width: 100%; height: auto; height: intrinsic;" font-family="sans-serif" font-size="10"
+    xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g fill="none" stroke="#555" stroke-opacity="0.4" stroke-width="1.5">
+        <path d="M0,0C115.2,0,115.2,-667.5,230.4,-667.5" />
+        <path d="M0,0C115.2,0,115.2,-525,230.4,-525" />
+        <path d="M0,0C115.2,0,115.2,-420,230.4,-420" />
+        <path d="M0,0C115.2,0,115.2,-355,230.4,-355" />
+        <path d="M0,0C115.2,0,115.2,-320,230.4,-320" />
+        <path d="M0,0C115.2,0,115.2,-265,230.4,-265" />
+        <path d="M0,0C115.2,0,115.2,-70,230.4,-70" />
+        <path d="M0,0C115.2,0,115.2,135,230.4,135" />
+        <path d="M0,0C115.2,0,115.2,297.5,230.4,297.5" />
+        <path d="M0,0C115.2,0,115.2,667.5,230.4,667.5" />
+        <path d="M230.4,-667.5C345.6,-667.5,345.6,-715,460.8,-715" />
+        <path d="M230.4,-667.5C345.6,-667.5,345.6,-660,460.8,-660" />
+        <path d="M230.4,-667.5C345.6,-667.5,345.6,-620,460.8,-620" />
+        <path d="M230.4,-525C345.6,-525,345.6,-580,460.8,-580" />
+        <path d="M230.4,-525C345.6,-525,345.6,-570,460.8,-570" />
+        <path d="M230.4,-525C345.6,-525,345.6,-560,460.8,-560" />
+        <path d="M230.4,-525C345.6,-525,345.6,-550,460.8,-550" />
+        <path d="M230.4,-525C345.6,-525,345.6,-540,460.8,-540" />
+        <path d="M230.4,-525C345.6,-525,345.6,-530,460.8,-530" />
+        <path d="M230.4,-525C345.6,-525,345.6,-520,460.8,-520" />
+        <path d="M230.4,-525C345.6,-525,345.6,-510,460.8,-510" />
+        <path d="M230.4,-525C345.6,-525,345.6,-500,460.8,-500" />
+        <path d="M230.4,-525C345.6,-525,345.6,-490,460.8,-490" />
+        <path d="M230.4,-525C345.6,-525,345.6,-480,460.8,-480" />
+        <path d="M230.4,-525C345.6,-525,345.6,-470,460.8,-470" />
+        <path d="M230.4,-420C345.6,-420,345.6,-450,460.8,-450" />
+        <path d="M230.4,-420C345.6,-420,345.6,-440,460.8,-440" />
+        <path d="M230.4,-420C345.6,-420,345.6,-430,460.8,-430" />
+        <path d="M230.4,-420C345.6,-420,345.6,-420,460.8,-420" />
+        <path d="M230.4,-420C345.6,-420,345.6,-410,460.8,-410" />
+        <path d="M230.4,-420C345.6,-420,345.6,-400,460.8,-400" />
+        <path d="M230.4,-420C345.6,-420,345.6,-390,460.8,-390" />
+        <path d="M230.4,-355C345.6,-355,345.6,-370,460.8,-370" />
+        <path d="M230.4,-355C345.6,-355,345.6,-360,460.8,-360" />
+        <path d="M230.4,-355C345.6,-355,345.6,-350,460.8,-350" />
+        <path d="M230.4,-355C345.6,-355,345.6,-340,460.8,-340" />
+        <path d="M230.4,-320C345.6,-320,345.6,-320,460.8,-320" />
+        <path d="M230.4,-265C345.6,-265,345.6,-300,460.8,-300" />
+        <path d="M230.4,-265C345.6,-265,345.6,-290,460.8,-290" />
+        <path d="M230.4,-265C345.6,-265,345.6,-280,460.8,-280" />
+        <path d="M230.4,-265C345.6,-265,345.6,-270,460.8,-270" />
+        <path d="M230.4,-265C345.6,-265,345.6,-260,460.8,-260" />
+        <path d="M230.4,-265C345.6,-265,345.6,-250,460.8,-250" />
+        <path d="M230.4,-265C345.6,-265,345.6,-240,460.8,-240" />
+        <path d="M230.4,-265C345.6,-265,345.6,-230,460.8,-230" />
+        <path d="M230.4,-70C345.6,-70,345.6,-210,460.8,-210" />
+        <path d="M230.4,-70C345.6,-70,345.6,-200,460.8,-200" />
+        <path d="M230.4,-70C345.6,-70,345.6,-190,460.8,-190" />
+        <path d="M230.4,-70C345.6,-70,345.6,-180,460.8,-180" />
+        <path d="M230.4,-70C345.6,-70,345.6,-170,460.8,-170" />
+        <path d="M230.4,-70C345.6,-70,345.6,-160,460.8,-160" />
+        <path d="M230.4,-70C345.6,-70,345.6,-150,460.8,-150" />
+        <path d="M230.4,-70C345.6,-70,345.6,-140,460.8,-140" />
+        <path d="M230.4,-70C345.6,-70,345.6,-130,460.8,-130" />
+        <path d="M230.4,-70C345.6,-70,345.6,-120,460.8,-120" />
+        <path d="M230.4,-70C345.6,-70,345.6,-110,460.8,-110" />
+        <path d="M230.4,-70C345.6,-70,345.6,-100,460.8,-100" />
+        <path d="M230.4,-70C345.6,-70,345.6,-90,460.8,-90" />
+        <path d="M230.4,-70C345.6,-70,345.6,-80,460.8,-80" />
+        <path d="M230.4,-70C345.6,-70,345.6,-70,460.8,-70" />
+        <path d="M230.4,-70C345.6,-70,345.6,-60,460.8,-60" />
+        <path d="M230.4,-70C345.6,-70,345.6,-50,460.8,-50" />
+        <path d="M230.4,-70C345.6,-70,345.6,-40,460.8,-40" />
+        <path d="M230.4,-70C345.6,-70,345.6,-30,460.8,-30" />
+        <path d="M230.4,-70C345.6,-70,345.6,-20,460.8,-20" />
+        <path d="M230.4,-70C345.6,-70,345.6,-10,460.8,-10" />
+        <path d="M230.4,-70C345.6,-70,345.6,0,460.8,0" />
+        <path d="M230.4,-70C345.6,-70,345.6,10,460.8,10" />
+        <path d="M230.4,-70C345.6,-70,345.6,20,460.8,20" />
+        <path d="M230.4,-70C345.6,-70,345.6,30,460.8,30" />
+        <path d="M230.4,-70C345.6,-70,345.6,40,460.8,40" />
+        <path d="M230.4,-70C345.6,-70,345.6,50,460.8,50" />
+        <path d="M230.4,-70C345.6,-70,345.6,60,460.8,60" />
+        <path d="M230.4,-70C345.6,-70,345.6,70,460.8,70" />
+        <path d="M230.4,135C345.6,135,345.6,90,460.8,90" />
+        <path d="M230.4,135C345.6,135,345.6,100,460.8,100" />
+        <path d="M230.4,135C345.6,135,345.6,110,460.8,110" />
+        <path d="M230.4,135C345.6,135,345.6,120,460.8,120" />
+        <path d="M230.4,135C345.6,135,345.6,130,460.8,130" />
+        <path d="M230.4,135C345.6,135,345.6,140,460.8,140" />
+        <path d="M230.4,135C345.6,135,345.6,150,460.8,150" />
+        <path d="M230.4,135C345.6,135,345.6,160,460.8,160" />
+        <path d="M230.4,135C345.6,135,345.6,170,460.8,170" />
+        <path d="M230.4,135C345.6,135,345.6,180,460.8,180" />
+        <path d="M230.4,297.5C345.6,297.5,345.6,200,460.8,200" />
+        <path d="M230.4,297.5C345.6,297.5,345.6,210,460.8,210" />
+        <path d="M230.4,297.5C345.6,297.5,345.6,220,460.8,220" />
+        <path d="M230.4,297.5C345.6,297.5,345.6,230,460.8,230" />
+        <path d="M230.4,297.5C345.6,297.5,345.6,240,460.8,240" />
+        <path d="M230.4,297.5C345.6,297.5,345.6,250,460.8,250" />
+        <path d="M230.4,297.5C345.6,297.5,345.6,260,460.8,260" />
+        <path d="M230.4,297.5C345.6,297.5,345.6,270,460.8,270" />
+        <path d="M230.4,297.5C345.6,297.5,345.6,280,460.8,280" />
+        <path d="M230.4,297.5C345.6,297.5,345.6,290,460.8,290" />
+        <path d="M230.4,297.5C345.6,297.5,345.6,300,460.8,300" />
+        <path d="M230.4,297.5C345.6,297.5,345.6,315,460.8,315" />
+        <path d="M230.4,297.5C345.6,297.5,345.6,330,460.8,330" />
+        <path d="M230.4,297.5C345.6,297.5,345.6,345,460.8,345" />
+        <path d="M230.4,297.5C345.6,297.5,345.6,355,460.8,355" />
+        <path d="M230.4,297.5C345.6,297.5,345.6,365,460.8,365" />
+        <path d="M230.4,297.5C345.6,297.5,345.6,375,460.8,375" />
+        <path d="M230.4,297.5C345.6,297.5,345.6,385,460.8,385" />
+        <path d="M230.4,297.5C345.6,297.5,345.6,395,460.8,395" />
+        <path d="M230.4,667.5C345.6,667.5,345.6,415,460.8,415" />
+        <path d="M230.4,667.5C345.6,667.5,345.6,505,460.8,505" />
+        <path d="M230.4,667.5C345.6,667.5,345.6,615,460.8,615" />
+        <path d="M230.4,667.5C345.6,667.5,345.6,690,460.8,690" />
+        <path d="M230.4,667.5C345.6,667.5,345.6,735,460.8,735" />
+        <path d="M230.4,667.5C345.6,667.5,345.6,910,460.8,910" />
+        <path d="M230.4,667.5C345.6,667.5,345.6,920,460.8,920" />
+        <path d="M460.8,-715C576,-715,576,-730,691.2,-730" />
+        <path d="M460.8,-715C576,-715,576,-720,691.2,-720" />
+        <path d="M460.8,-715C576,-715,576,-710,691.2,-710" />
+        <path d="M460.8,-715C576,-715,576,-700,691.2,-700" />
+        <path d="M460.8,-660C576,-660,576,-680,691.2,-680" />
+        <path d="M460.8,-660C576,-660,576,-670,691.2,-670" />
+        <path d="M460.8,-660C576,-660,576,-660,691.2,-660" />
+        <path d="M460.8,-660C576,-660,576,-650,691.2,-650" />
+        <path d="M460.8,-660C576,-660,576,-640,691.2,-640" />
+        <path d="M460.8,-620C576,-620,576,-620,691.2,-620" />
+        <path d="M460.8,-560C576,-560,576,-600,691.2,-600" />
+        <path d="M460.8,-560C576,-560,576,-590,691.2,-590" />
+        <path d="M460.8,-560C576,-560,576,-580,691.2,-580" />
+        <path d="M460.8,-560C576,-560,576,-570,691.2,-570" />
+        <path d="M460.8,-560C576,-560,576,-560,691.2,-560" />
+        <path d="M460.8,-560C576,-560,576,-550,691.2,-550" />
+        <path d="M460.8,-560C576,-560,576,-540,691.2,-540" />
+        <path d="M460.8,-560C576,-560,576,-530,691.2,-530" />
+        <path d="M460.8,-560C576,-560,576,-520,691.2,-520" />
+        <path d="M460.8,-450C576,-450,576,-470,691.2,-470" />
+        <path d="M460.8,-450C576,-450,576,-460,691.2,-460" />
+        <path d="M460.8,-450C576,-450,576,-450,691.2,-450" />
+        <path d="M460.8,-450C576,-450,576,-440,691.2,-440" />
+        <path d="M460.8,-450C576,-450,576,-430,691.2,-430" />
+        <path d="M460.8,-30C576,-30,576,-185,691.2,-185" />
+        <path d="M460.8,-30C576,-30,576,-175,691.2,-175" />
+        <path d="M460.8,-30C576,-30,576,-165,691.2,-165" />
+        <path d="M460.8,-30C576,-30,576,-155,691.2,-155" />
+        <path d="M460.8,-30C576,-30,576,-145,691.2,-145" />
+        <path d="M460.8,-30C576,-30,576,-135,691.2,-135" />
+        <path d="M460.8,-30C576,-30,576,-125,691.2,-125" />
+        <path d="M460.8,-30C576,-30,576,-115,691.2,-115" />
+        <path d="M460.8,-30C576,-30,576,-105,691.2,-105" />
+        <path d="M460.8,-30C576,-30,576,-95,691.2,-95" />
+        <path d="M460.8,-30C576,-30,576,-85,691.2,-85" />
+        <path d="M460.8,-30C576,-30,576,-75,691.2,-75" />
+        <path d="M460.8,-30C576,-30,576,-65,691.2,-65" />
+        <path d="M460.8,-30C576,-30,576,-55,691.2,-55" />
+        <path d="M460.8,-30C576,-30,576,-45,691.2,-45" />
+        <path d="M460.8,-30C576,-30,576,-35,691.2,-35" />
+        <path d="M460.8,-30C576,-30,576,-25,691.2,-25" />
+        <path d="M460.8,-30C576,-30,576,-15,691.2,-15" />
+        <path d="M460.8,-30C576,-30,576,-5,691.2,-5" />
+        <path d="M460.8,-30C576,-30,576,5,691.2,5" />
+        <path d="M460.8,-30C576,-30,576,15,691.2,15" />
+        <path d="M460.8,-30C576,-30,576,25,691.2,25" />
+        <path d="M460.8,-30C576,-30,576,35,691.2,35" />
+        <path d="M460.8,-30C576,-30,576,45,691.2,45" />
+        <path d="M460.8,-30C576,-30,576,55,691.2,55" />
+        <path d="M460.8,-30C576,-30,576,65,691.2,65" />
+        <path d="M460.8,-30C576,-30,576,75,691.2,75" />
+        <path d="M460.8,-30C576,-30,576,85,691.2,85" />
+        <path d="M460.8,-30C576,-30,576,95,691.2,95" />
+        <path d="M460.8,-30C576,-30,576,105,691.2,105" />
+        <path d="M460.8,-30C576,-30,576,115,691.2,115" />
+        <path d="M460.8,-30C576,-30,576,125,691.2,125" />
+        <path d="M460.8,260C576,260,576,255,691.2,255" />
+        <path d="M460.8,260C576,260,576,265,691.2,265" />
+        <path d="M460.8,300C576,300,576,290,691.2,290" />
+        <path d="M460.8,300C576,300,576,300,691.2,300" />
+        <path d="M460.8,300C576,300,576,310,691.2,310" />
+        <path d="M460.8,345C576,345,576,330,691.2,330" />
+        <path d="M460.8,345C576,345,576,340,691.2,340" />
+        <path d="M460.8,345C576,345,576,350,691.2,350" />
+        <path d="M460.8,345C576,345,576,360,691.2,360" />
+        <path d="M460.8,415C576,415,576,395,691.2,395" />
+        <path d="M460.8,415C576,415,576,405,691.2,405" />
+        <path d="M460.8,415C576,415,576,415,691.2,415" />
+        <path d="M460.8,415C576,415,576,425,691.2,425" />
+        <path d="M460.8,415C576,415,576,435,691.2,435" />
+        <path d="M460.8,505C576,505,576,455,691.2,455" />
+        <path d="M460.8,505C576,505,576,465,691.2,465" />
+        <path d="M460.8,505C576,505,576,475,691.2,475" />
+        <path d="M460.8,505C576,505,576,485,691.2,485" />
+        <path d="M460.8,505C576,505,576,495,691.2,495" />
+        <path d="M460.8,505C576,505,576,505,691.2,505" />
+        <path d="M460.8,505C576,505,576,515,691.2,515" />
+        <path d="M460.8,505C576,505,576,525,691.2,525" />
+        <path d="M460.8,505C576,505,576,535,691.2,535" />
+        <path d="M460.8,505C576,505,576,545,691.2,545" />
+        <path d="M460.8,505C576,505,576,555,691.2,555" />
+        <path d="M460.8,615C576,615,576,575,691.2,575" />
+        <path d="M460.8,615C576,615,576,585,691.2,585" />
+        <path d="M460.8,615C576,615,576,595,691.2,595" />
+        <path d="M460.8,615C576,615,576,605,691.2,605" />
+        <path d="M460.8,615C576,615,576,615,691.2,615" />
+        <path d="M460.8,615C576,615,576,625,691.2,625" />
+        <path d="M460.8,615C576,615,576,635,691.2,635" />
+        <path d="M460.8,615C576,615,576,645,691.2,645" />
+        <path d="M460.8,615C576,615,576,655,691.2,655" />
+        <path d="M460.8,690C576,690,576,675,691.2,675" />
+        <path d="M460.8,690C576,690,576,685,691.2,685" />
+        <path d="M460.8,690C576,690,576,695,691.2,695" />
+        <path d="M460.8,690C576,690,576,705,691.2,705" />
+        <path d="M460.8,735C576,735,576,725,691.2,725" />
+        <path d="M460.8,735C576,735,576,735,691.2,735" />
+        <path d="M460.8,735C576,735,576,745,691.2,745" />
+        <path d="M460.8,910C576,910,576,765,691.2,765" />
+        <path d="M460.8,910C576,910,576,815,691.2,815" />
+        <path d="M460.8,910C576,910,576,865,691.2,865" />
+        <path d="M460.8,910C576,910,576,885,691.2,885" />
+        <path d="M460.8,910C576,910,576,905,691.2,905" />
+        <path d="M460.8,910C576,910,576,1005,691.2,1005" />
+        <path d="M460.8,910C576,910,576,1015,691.2,1015" />
+        <path d="M460.8,910C576,910,576,1025,691.2,1025" />
+        <path d="M460.8,910C576,910,576,1035,691.2,1035" />
+        <path d="M460.8,910C576,910,576,1045,691.2,1045" />
+        <path d="M460.8,910C576,910,576,1055,691.2,1055" />
+        <path d="M691.2,625C806.4,625,806.4,610,921.6,610" />
+        <path d="M691.2,625C806.4,625,806.4,620,921.6,620" />
+        <path d="M691.2,625C806.4,625,806.4,630,921.6,630" />
+        <path d="M691.2,625C806.4,625,806.4,640,921.6,640" />
+        <path d="M691.2,765C806.4,765,806.4,755,921.6,755" />
+        <path d="M691.2,765C806.4,765,806.4,765,921.6,765" />
+        <path d="M691.2,765C806.4,765,806.4,775,921.6,775" />
+        <path d="M691.2,815C806.4,815,806.4,795,921.6,795" />
+        <path d="M691.2,815C806.4,815,806.4,805,921.6,805" />
+        <path d="M691.2,815C806.4,815,806.4,815,921.6,815" />
+        <path d="M691.2,815C806.4,815,806.4,825,921.6,825" />
+        <path d="M691.2,815C806.4,815,806.4,835,921.6,835" />
+        <path d="M691.2,865C806.4,865,806.4,855,921.6,855" />
+        <path d="M691.2,865C806.4,865,806.4,865,921.6,865" />
+        <path d="M691.2,865C806.4,865,806.4,875,921.6,875" />
+        <path d="M691.2,905C806.4,905,806.4,895,921.6,895" />
+        <path d="M691.2,905C806.4,905,806.4,905,921.6,905" />
+        <path d="M691.2,905C806.4,905,806.4,915,921.6,915" />
+        <path d="M691.2,1005C806.4,1005,806.4,935,921.6,935" />
+        <path d="M691.2,1005C806.4,1005,806.4,945,921.6,945" />
+        <path d="M691.2,1005C806.4,1005,806.4,955,921.6,955" />
+        <path d="M691.2,1005C806.4,1005,806.4,965,921.6,965" />
+        <path d="M691.2,1005C806.4,1005,806.4,975,921.6,975" />
+        <path d="M691.2,1005C806.4,1005,806.4,985,921.6,985" />
+        <path d="M691.2,1005C806.4,1005,806.4,995,921.6,995" />
+        <path d="M691.2,1005C806.4,1005,806.4,1005,921.6,1005" />
+        <path d="M691.2,1005C806.4,1005,806.4,1015,921.6,1015" />
+        <path d="M691.2,1005C806.4,1005,806.4,1025,921.6,1025" />
+        <path d="M691.2,1005C806.4,1005,806.4,1035,921.6,1035" />
+        <path d="M691.2,1005C806.4,1005,806.4,1045,921.6,1045" />
+        <path d="M691.2,1005C806.4,1005,806.4,1055,921.6,1055" />
+        <path d="M691.2,1005C806.4,1005,806.4,1065,921.6,1065" />
+        <path d="M691.2,1005C806.4,1005,806.4,1075,921.6,1075" />
+    </g>
+    <g><a xlink:href="https://github.com/prefuse/Flare/tree/master/flare/src/flare" target="_blank"
+            transform="translate(0,0)">
+            <circle fill="#555" r="3" />
+            <title>flare</title><text dy="0.32em" x="-6" text-anchor="end" paint-order="stroke" stroke="#fff"
+                stroke-width="3">flare</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/tree/master/flare/src/flare/analytics" target="_blank"
+            transform="translate(230.4,-667.5)">
+            <circle fill="#555" r="3" />
+            <title>flare.analytics</title><text dy="0.32em" x="-6" text-anchor="end" paint-order="stroke" stroke="#fff"
+                stroke-width="3">analytics</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/tree/master/flare/src/flare/animate" target="_blank"
+            transform="translate(230.4,-525)">
+            <circle fill="#555" r="3" />
+            <title>flare.animate</title><text dy="0.32em" x="-6" text-anchor="end" paint-order="stroke" stroke="#fff"
+                stroke-width="3">animate</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/tree/master/flare/src/flare/data" target="_blank"
+            transform="translate(230.4,-420)">
+            <circle fill="#555" r="3" />
+            <title>flare.data</title><text dy="0.32em" x="-6" text-anchor="end" paint-order="stroke" stroke="#fff"
+                stroke-width="3">data</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/tree/master/flare/src/flare/display" target="_blank"
+            transform="translate(230.4,-355)">
+            <circle fill="#555" r="3" />
+            <title>flare.display</title><text dy="0.32em" x="-6" text-anchor="end" paint-order="stroke" stroke="#fff"
+                stroke-width="3">display</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/tree/master/flare/src/flare/flex" target="_blank"
+            transform="translate(230.4,-320)">
+            <circle fill="#555" r="3" />
+            <title>flare.flex</title><text dy="0.32em" x="-6" text-anchor="end" paint-order="stroke" stroke="#fff"
+                stroke-width="3">flex</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/tree/master/flare/src/flare/physics" target="_blank"
+            transform="translate(230.4,-265)">
+            <circle fill="#555" r="3" />
+            <title>flare.physics</title><text dy="0.32em" x="-6" text-anchor="end" paint-order="stroke" stroke="#fff"
+                stroke-width="3">physics</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/tree/master/flare/src/flare/query" target="_blank"
+            transform="translate(230.4,-70)">
+            <circle fill="#555" r="3" />
+            <title>flare.query</title><text dy="0.32em" x="-6" text-anchor="end" paint-order="stroke" stroke="#fff"
+                stroke-width="3">query</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/tree/master/flare/src/flare/scale" target="_blank"
+            transform="translate(230.4,135)">
+            <circle fill="#555" r="3" />
+            <title>flare.scale</title><text dy="0.32em" x="-6" text-anchor="end" paint-order="stroke" stroke="#fff"
+                stroke-width="3">scale</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/tree/master/flare/src/flare/util" target="_blank"
+            transform="translate(230.4,297.5)">
+            <circle fill="#555" r="3" />
+            <title>flare.util</title><text dy="0.32em" x="-6" text-anchor="end" paint-order="stroke" stroke="#fff"
+                stroke-width="3">util</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/tree/master/flare/src/flare/vis" target="_blank"
+            transform="translate(230.4,667.5)">
+            <circle fill="#555" r="3" />
+            <title>flare.vis</title><text dy="0.32em" x="-6" text-anchor="end" paint-order="stroke" stroke="#fff"
+                stroke-width="3">vis</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/tree/master/flare/src/flare/analytics/cluster"
+            target="_blank" transform="translate(460.8,-715)">
+            <circle fill="#555" r="3" />
+            <title>flare.analytics.cluster</title><text dy="0.32em" x="-6" text-anchor="end" paint-order="stroke"
+                stroke="#fff" stroke-width="3">cluster</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/tree/master/flare/src/flare/analytics/graph" target="_blank"
+            transform="translate(460.8,-660)">
+            <circle fill="#555" r="3" />
+            <title>flare.analytics.graph</title><text dy="0.32em" x="-6" text-anchor="end" paint-order="stroke"
+                stroke="#fff" stroke-width="3">graph</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/tree/master/flare/src/flare/analytics/optimization"
+            target="_blank" transform="translate(460.8,-620)">
+            <circle fill="#555" r="3" />
+            <title>flare.analytics.optimization</title><text dy="0.32em" x="-6" text-anchor="end" paint-order="stroke"
+                stroke="#fff" stroke-width="3">optimization</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/animate/Easing.as"
+            target="_blank" transform="translate(460.8,-580)">
+            <circle fill="#999" r="3" />
+            <title>flare.animate.Easing</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">Easing</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/animate/FunctionSequence.as"
+            target="_blank" transform="translate(460.8,-570)">
+            <circle fill="#999" r="3" />
+            <title>flare.animate.FunctionSequence</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">FunctionSequence</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/tree/master/flare/src/flare/animate/interpolate"
+            target="_blank" transform="translate(460.8,-560)">
+            <circle fill="#555" r="3" />
+            <title>flare.animate.interpolate</title><text dy="0.32em" x="-6" text-anchor="end" paint-order="stroke"
+                stroke="#fff" stroke-width="3">interpolate</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/animate/ISchedulable.as"
+            target="_blank" transform="translate(460.8,-550)">
+            <circle fill="#999" r="3" />
+            <title>flare.animate.ISchedulable</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">ISchedulable</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/animate/Parallel.as"
+            target="_blank" transform="translate(460.8,-540)">
+            <circle fill="#999" r="3" />
+            <title>flare.animate.Parallel</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">Parallel</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/animate/Pause.as"
+            target="_blank" transform="translate(460.8,-530)">
+            <circle fill="#999" r="3" />
+            <title>flare.animate.Pause</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">Pause</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/animate/Scheduler.as"
+            target="_blank" transform="translate(460.8,-520)">
+            <circle fill="#999" r="3" />
+            <title>flare.animate.Scheduler</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">Scheduler</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/animate/Sequence.as"
+            target="_blank" transform="translate(460.8,-510)">
+            <circle fill="#999" r="3" />
+            <title>flare.animate.Sequence</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">Sequence</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/animate/Transition.as"
+            target="_blank" transform="translate(460.8,-500)">
+            <circle fill="#999" r="3" />
+            <title>flare.animate.Transition</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">Transition</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/animate/Transitioner.as"
+            target="_blank" transform="translate(460.8,-490)">
+            <circle fill="#999" r="3" />
+            <title>flare.animate.Transitioner</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">Transitioner</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/animate/TransitionEvent.as"
+            target="_blank" transform="translate(460.8,-480)">
+            <circle fill="#999" r="3" />
+            <title>flare.animate.TransitionEvent</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">TransitionEvent</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/animate/Tween.as"
+            target="_blank" transform="translate(460.8,-470)">
+            <circle fill="#999" r="3" />
+            <title>flare.animate.Tween</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">Tween</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/tree/master/flare/src/flare/data/converters" target="_blank"
+            transform="translate(460.8,-450)">
+            <circle fill="#555" r="3" />
+            <title>flare.data.converters</title><text dy="0.32em" x="-6" text-anchor="end" paint-order="stroke"
+                stroke="#fff" stroke-width="3">converters</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/data/DataField.as"
+            target="_blank" transform="translate(460.8,-440)">
+            <circle fill="#999" r="3" />
+            <title>flare.data.DataField</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">DataField</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/data/DataSchema.as"
+            target="_blank" transform="translate(460.8,-430)">
+            <circle fill="#999" r="3" />
+            <title>flare.data.DataSchema</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">DataSchema</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/data/DataSet.as" target="_blank"
+            transform="translate(460.8,-420)">
+            <circle fill="#999" r="3" />
+            <title>flare.data.DataSet</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">DataSet</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/data/DataSource.as"
+            target="_blank" transform="translate(460.8,-410)">
+            <circle fill="#999" r="3" />
+            <title>flare.data.DataSource</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">DataSource</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/data/DataTable.as"
+            target="_blank" transform="translate(460.8,-400)">
+            <circle fill="#999" r="3" />
+            <title>flare.data.DataTable</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">DataTable</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/data/DataUtil.as"
+            target="_blank" transform="translate(460.8,-390)">
+            <circle fill="#999" r="3" />
+            <title>flare.data.DataUtil</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">DataUtil</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/display/DirtySprite.as"
+            target="_blank" transform="translate(460.8,-370)">
+            <circle fill="#999" r="3" />
+            <title>flare.display.DirtySprite</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">DirtySprite</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/display/LineSprite.as"
+            target="_blank" transform="translate(460.8,-360)">
+            <circle fill="#999" r="3" />
+            <title>flare.display.LineSprite</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">LineSprite</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/display/RectSprite.as"
+            target="_blank" transform="translate(460.8,-350)">
+            <circle fill="#999" r="3" />
+            <title>flare.display.RectSprite</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">RectSprite</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/display/TextSprite.as"
+            target="_blank" transform="translate(460.8,-340)">
+            <circle fill="#999" r="3" />
+            <title>flare.display.TextSprite</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">TextSprite</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/flex/FlareVis.as"
+            target="_blank" transform="translate(460.8,-320)">
+            <circle fill="#999" r="3" />
+            <title>flare.flex.FlareVis</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">FlareVis</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/physics/DragForce.as"
+            target="_blank" transform="translate(460.8,-300)">
+            <circle fill="#999" r="3" />
+            <title>flare.physics.DragForce</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">DragForce</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/physics/GravityForce.as"
+            target="_blank" transform="translate(460.8,-290)">
+            <circle fill="#999" r="3" />
+            <title>flare.physics.GravityForce</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">GravityForce</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/physics/IForce.as"
+            target="_blank" transform="translate(460.8,-280)">
+            <circle fill="#999" r="3" />
+            <title>flare.physics.IForce</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">IForce</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/physics/NBodyForce.as"
+            target="_blank" transform="translate(460.8,-270)">
+            <circle fill="#999" r="3" />
+            <title>flare.physics.NBodyForce</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">NBodyForce</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/physics/Particle.as"
+            target="_blank" transform="translate(460.8,-260)">
+            <circle fill="#999" r="3" />
+            <title>flare.physics.Particle</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">Particle</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/physics/Simulation.as"
+            target="_blank" transform="translate(460.8,-250)">
+            <circle fill="#999" r="3" />
+            <title>flare.physics.Simulation</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">Simulation</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/physics/Spring.as"
+            target="_blank" transform="translate(460.8,-240)">
+            <circle fill="#999" r="3" />
+            <title>flare.physics.Spring</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">Spring</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/physics/SpringForce.as"
+            target="_blank" transform="translate(460.8,-230)">
+            <circle fill="#999" r="3" />
+            <title>flare.physics.SpringForce</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">SpringForce</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/AggregateExpression.as"
+            target="_blank" transform="translate(460.8,-210)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.AggregateExpression</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">AggregateExpression</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/And.as" target="_blank"
+            transform="translate(460.8,-200)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.And</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke" stroke="#fff"
+                stroke-width="3">And</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/Arithmetic.as"
+            target="_blank" transform="translate(460.8,-190)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.Arithmetic</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">Arithmetic</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/Average.as"
+            target="_blank" transform="translate(460.8,-180)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.Average</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">Average</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/BinaryExpression.as"
+            target="_blank" transform="translate(460.8,-170)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.BinaryExpression</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">BinaryExpression</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/Comparison.as"
+            target="_blank" transform="translate(460.8,-160)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.Comparison</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">Comparison</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/CompositeExpression.as"
+            target="_blank" transform="translate(460.8,-150)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.CompositeExpression</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">CompositeExpression</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/Count.as" target="_blank"
+            transform="translate(460.8,-140)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.Count</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">Count</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/DateUtil.as"
+            target="_blank" transform="translate(460.8,-130)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.DateUtil</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">DateUtil</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/Distinct.as"
+            target="_blank" transform="translate(460.8,-120)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.Distinct</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">Distinct</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/Expression.as"
+            target="_blank" transform="translate(460.8,-110)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.Expression</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">Expression</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/ExpressionIterator.as"
+            target="_blank" transform="translate(460.8,-100)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.ExpressionIterator</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">ExpressionIterator</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/Fn.as" target="_blank"
+            transform="translate(460.8,-90)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.Fn</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke" stroke="#fff"
+                stroke-width="3">Fn</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/If.as" target="_blank"
+            transform="translate(460.8,-80)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.If</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke" stroke="#fff"
+                stroke-width="3">If</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/IsA.as" target="_blank"
+            transform="translate(460.8,-70)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.IsA</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke" stroke="#fff"
+                stroke-width="3">IsA</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/Literal.as"
+            target="_blank" transform="translate(460.8,-60)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.Literal</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">Literal</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/Match.as" target="_blank"
+            transform="translate(460.8,-50)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.Match</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">Match</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/Maximum.as"
+            target="_blank" transform="translate(460.8,-40)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.Maximum</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">Maximum</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/tree/master/flare/src/flare/query/methods" target="_blank"
+            transform="translate(460.8,-30)">
+            <circle fill="#555" r="3" />
+            <title>flare.query.methods</title><text dy="0.32em" x="-6" text-anchor="end" paint-order="stroke"
+                stroke="#fff" stroke-width="3">methods</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/Minimum.as"
+            target="_blank" transform="translate(460.8,-20)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.Minimum</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">Minimum</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/Not.as" target="_blank"
+            transform="translate(460.8,-10)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.Not</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke" stroke="#fff"
+                stroke-width="3">Not</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/Or.as" target="_blank"
+            transform="translate(460.8,0)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.Or</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke" stroke="#fff"
+                stroke-width="3">Or</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/Query.as" target="_blank"
+            transform="translate(460.8,10)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.Query</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">Query</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/Range.as" target="_blank"
+            transform="translate(460.8,20)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.Range</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">Range</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/StringUtil.as"
+            target="_blank" transform="translate(460.8,30)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.StringUtil</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">StringUtil</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/Sum.as" target="_blank"
+            transform="translate(460.8,40)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.Sum</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke" stroke="#fff"
+                stroke-width="3">Sum</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/Variable.as"
+            target="_blank" transform="translate(460.8,50)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.Variable</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">Variable</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/Variance.as"
+            target="_blank" transform="translate(460.8,60)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.Variance</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">Variance</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/Xor.as" target="_blank"
+            transform="translate(460.8,70)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.Xor</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke" stroke="#fff"
+                stroke-width="3">Xor</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/scale/IScaleMap.as"
+            target="_blank" transform="translate(460.8,90)">
+            <circle fill="#999" r="3" />
+            <title>flare.scale.IScaleMap</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">IScaleMap</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/scale/LinearScale.as"
+            target="_blank" transform="translate(460.8,100)">
+            <circle fill="#999" r="3" />
+            <title>flare.scale.LinearScale</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">LinearScale</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/scale/LogScale.as"
+            target="_blank" transform="translate(460.8,110)">
+            <circle fill="#999" r="3" />
+            <title>flare.scale.LogScale</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">LogScale</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/scale/OrdinalScale.as"
+            target="_blank" transform="translate(460.8,120)">
+            <circle fill="#999" r="3" />
+            <title>flare.scale.OrdinalScale</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">OrdinalScale</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/scale/QuantileScale.as"
+            target="_blank" transform="translate(460.8,130)">
+            <circle fill="#999" r="3" />
+            <title>flare.scale.QuantileScale</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">QuantileScale</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/scale/QuantitativeScale.as"
+            target="_blank" transform="translate(460.8,140)">
+            <circle fill="#999" r="3" />
+            <title>flare.scale.QuantitativeScale</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">QuantitativeScale</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/scale/RootScale.as"
+            target="_blank" transform="translate(460.8,150)">
+            <circle fill="#999" r="3" />
+            <title>flare.scale.RootScale</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">RootScale</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/scale/Scale.as" target="_blank"
+            transform="translate(460.8,160)">
+            <circle fill="#999" r="3" />
+            <title>flare.scale.Scale</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">Scale</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/scale/ScaleType.as"
+            target="_blank" transform="translate(460.8,170)">
+            <circle fill="#999" r="3" />
+            <title>flare.scale.ScaleType</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">ScaleType</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/scale/TimeScale.as"
+            target="_blank" transform="translate(460.8,180)">
+            <circle fill="#999" r="3" />
+            <title>flare.scale.TimeScale</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">TimeScale</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/util/Arrays.as" target="_blank"
+            transform="translate(460.8,200)">
+            <circle fill="#999" r="3" />
+            <title>flare.util.Arrays</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">Arrays</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/util/Colors.as" target="_blank"
+            transform="translate(460.8,210)">
+            <circle fill="#999" r="3" />
+            <title>flare.util.Colors</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">Colors</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/util/Dates.as" target="_blank"
+            transform="translate(460.8,220)">
+            <circle fill="#999" r="3" />
+            <title>flare.util.Dates</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">Dates</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/util/Displays.as"
+            target="_blank" transform="translate(460.8,230)">
+            <circle fill="#999" r="3" />
+            <title>flare.util.Displays</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">Displays</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/util/Filter.as" target="_blank"
+            transform="translate(460.8,240)">
+            <circle fill="#999" r="3" />
+            <title>flare.util.Filter</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">Filter</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/util/Geometry.as"
+            target="_blank" transform="translate(460.8,250)">
+            <circle fill="#999" r="3" />
+            <title>flare.util.Geometry</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">Geometry</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/tree/master/flare/src/flare/util/heap" target="_blank"
+            transform="translate(460.8,260)">
+            <circle fill="#555" r="3" />
+            <title>flare.util.heap</title><text dy="0.32em" x="-6" text-anchor="end" paint-order="stroke" stroke="#fff"
+                stroke-width="3">heap</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/util/IEvaluable.as"
+            target="_blank" transform="translate(460.8,270)">
+            <circle fill="#999" r="3" />
+            <title>flare.util.IEvaluable</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">IEvaluable</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/util/IPredicate.as"
+            target="_blank" transform="translate(460.8,280)">
+            <circle fill="#999" r="3" />
+            <title>flare.util.IPredicate</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">IPredicate</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/util/IValueProxy.as"
+            target="_blank" transform="translate(460.8,290)">
+            <circle fill="#999" r="3" />
+            <title>flare.util.IValueProxy</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">IValueProxy</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/tree/master/flare/src/flare/util/math" target="_blank"
+            transform="translate(460.8,300)">
+            <circle fill="#555" r="3" />
+            <title>flare.util.math</title><text dy="0.32em" x="-6" text-anchor="end" paint-order="stroke" stroke="#fff"
+                stroke-width="3">math</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/util/Maths.as" target="_blank"
+            transform="translate(460.8,315)">
+            <circle fill="#999" r="3" />
+            <title>flare.util.Maths</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">Maths</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/util/Orientation.as"
+            target="_blank" transform="translate(460.8,330)">
+            <circle fill="#999" r="3" />
+            <title>flare.util.Orientation</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">Orientation</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/tree/master/flare/src/flare/util/palette" target="_blank"
+            transform="translate(460.8,345)">
+            <circle fill="#555" r="3" />
+            <title>flare.util.palette</title><text dy="0.32em" x="-6" text-anchor="end" paint-order="stroke"
+                stroke="#fff" stroke-width="3">palette</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/util/Property.as"
+            target="_blank" transform="translate(460.8,355)">
+            <circle fill="#999" r="3" />
+            <title>flare.util.Property</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">Property</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/util/Shapes.as" target="_blank"
+            transform="translate(460.8,365)">
+            <circle fill="#999" r="3" />
+            <title>flare.util.Shapes</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">Shapes</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/util/Sort.as" target="_blank"
+            transform="translate(460.8,375)">
+            <circle fill="#999" r="3" />
+            <title>flare.util.Sort</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke" stroke="#fff"
+                stroke-width="3">Sort</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/util/Stats.as" target="_blank"
+            transform="translate(460.8,385)">
+            <circle fill="#999" r="3" />
+            <title>flare.util.Stats</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">Stats</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/util/Strings.as" target="_blank"
+            transform="translate(460.8,395)">
+            <circle fill="#999" r="3" />
+            <title>flare.util.Strings</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">Strings</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/tree/master/flare/src/flare/vis/axis" target="_blank"
+            transform="translate(460.8,415)">
+            <circle fill="#555" r="3" />
+            <title>flare.vis.axis</title><text dy="0.32em" x="-6" text-anchor="end" paint-order="stroke" stroke="#fff"
+                stroke-width="3">axis</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/tree/master/flare/src/flare/vis/controls" target="_blank"
+            transform="translate(460.8,505)">
+            <circle fill="#555" r="3" />
+            <title>flare.vis.controls</title><text dy="0.32em" x="-6" text-anchor="end" paint-order="stroke"
+                stroke="#fff" stroke-width="3">controls</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/tree/master/flare/src/flare/vis/data" target="_blank"
+            transform="translate(460.8,615)">
+            <circle fill="#555" r="3" />
+            <title>flare.vis.data</title><text dy="0.32em" x="-6" text-anchor="end" paint-order="stroke" stroke="#fff"
+                stroke-width="3">data</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/tree/master/flare/src/flare/vis/events" target="_blank"
+            transform="translate(460.8,690)">
+            <circle fill="#555" r="3" />
+            <title>flare.vis.events</title><text dy="0.32em" x="-6" text-anchor="end" paint-order="stroke" stroke="#fff"
+                stroke-width="3">events</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/tree/master/flare/src/flare/vis/legend" target="_blank"
+            transform="translate(460.8,735)">
+            <circle fill="#555" r="3" />
+            <title>flare.vis.legend</title><text dy="0.32em" x="-6" text-anchor="end" paint-order="stroke" stroke="#fff"
+                stroke-width="3">legend</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/tree/master/flare/src/flare/vis/operator" target="_blank"
+            transform="translate(460.8,910)">
+            <circle fill="#555" r="3" />
+            <title>flare.vis.operator</title><text dy="0.32em" x="-6" text-anchor="end" paint-order="stroke"
+                stroke="#fff" stroke-width="3">operator</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/Visualization.as"
+            target="_blank" transform="translate(460.8,920)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.Visualization</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">Visualization</text>
+        </a><a
+            xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/analytics/cluster/AgglomerativeCluster.as"
+            target="_blank" transform="translate(691.2,-730)">
+            <circle fill="#999" r="3" />
+            <title>flare.analytics.cluster.AgglomerativeCluster</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">AgglomerativeCluster</text>
+        </a><a
+            xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/analytics/cluster/CommunityStructure.as"
+            target="_blank" transform="translate(691.2,-720)">
+            <circle fill="#999" r="3" />
+            <title>flare.analytics.cluster.CommunityStructure</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">CommunityStructure</text>
+        </a><a
+            xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/analytics/cluster/HierarchicalCluster.as"
+            target="_blank" transform="translate(691.2,-710)">
+            <circle fill="#999" r="3" />
+            <title>flare.analytics.cluster.HierarchicalCluster</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">HierarchicalCluster</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/analytics/cluster/MergeEdge.as"
+            target="_blank" transform="translate(691.2,-700)">
+            <circle fill="#999" r="3" />
+            <title>flare.analytics.cluster.MergeEdge</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">MergeEdge</text>
+        </a><a
+            xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/analytics/graph/BetweennessCentrality.as"
+            target="_blank" transform="translate(691.2,-680)">
+            <circle fill="#999" r="3" />
+            <title>flare.analytics.graph.BetweennessCentrality</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">BetweennessCentrality</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/analytics/graph/LinkDistance.as"
+            target="_blank" transform="translate(691.2,-670)">
+            <circle fill="#999" r="3" />
+            <title>flare.analytics.graph.LinkDistance</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">LinkDistance</text>
+        </a><a
+            xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/analytics/graph/MaxFlowMinCut.as"
+            target="_blank" transform="translate(691.2,-660)">
+            <circle fill="#999" r="3" />
+            <title>flare.analytics.graph.MaxFlowMinCut</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">MaxFlowMinCut</text>
+        </a><a
+            xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/analytics/graph/ShortestPaths.as"
+            target="_blank" transform="translate(691.2,-650)">
+            <circle fill="#999" r="3" />
+            <title>flare.analytics.graph.ShortestPaths</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">ShortestPaths</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/analytics/graph/SpanningTree.as"
+            target="_blank" transform="translate(691.2,-640)">
+            <circle fill="#999" r="3" />
+            <title>flare.analytics.graph.SpanningTree</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">SpanningTree</text>
+        </a><a
+            xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/analytics/optimization/AspectRatioBanker.as"
+            target="_blank" transform="translate(691.2,-620)">
+            <circle fill="#999" r="3" />
+            <title>flare.analytics.optimization.AspectRatioBanker</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">AspectRatioBanker</text>
+        </a><a
+            xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/animate/interpolate/ArrayInterpolator.as"
+            target="_blank" transform="translate(691.2,-600)">
+            <circle fill="#999" r="3" />
+            <title>flare.animate.interpolate.ArrayInterpolator</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">ArrayInterpolator</text>
+        </a><a
+            xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/animate/interpolate/ColorInterpolator.as"
+            target="_blank" transform="translate(691.2,-590)">
+            <circle fill="#999" r="3" />
+            <title>flare.animate.interpolate.ColorInterpolator</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">ColorInterpolator</text>
+        </a><a
+            xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/animate/interpolate/DateInterpolator.as"
+            target="_blank" transform="translate(691.2,-580)">
+            <circle fill="#999" r="3" />
+            <title>flare.animate.interpolate.DateInterpolator</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">DateInterpolator</text>
+        </a><a
+            xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/animate/interpolate/Interpolator.as"
+            target="_blank" transform="translate(691.2,-570)">
+            <circle fill="#999" r="3" />
+            <title>flare.animate.interpolate.Interpolator</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">Interpolator</text>
+        </a><a
+            xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/animate/interpolate/MatrixInterpolator.as"
+            target="_blank" transform="translate(691.2,-560)">
+            <circle fill="#999" r="3" />
+            <title>flare.animate.interpolate.MatrixInterpolator</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">MatrixInterpolator</text>
+        </a><a
+            xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/animate/interpolate/NumberInterpolator.as"
+            target="_blank" transform="translate(691.2,-550)">
+            <circle fill="#999" r="3" />
+            <title>flare.animate.interpolate.NumberInterpolator</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">NumberInterpolator</text>
+        </a><a
+            xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/animate/interpolate/ObjectInterpolator.as"
+            target="_blank" transform="translate(691.2,-540)">
+            <circle fill="#999" r="3" />
+            <title>flare.animate.interpolate.ObjectInterpolator</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">ObjectInterpolator</text>
+        </a><a
+            xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/animate/interpolate/PointInterpolator.as"
+            target="_blank" transform="translate(691.2,-530)">
+            <circle fill="#999" r="3" />
+            <title>flare.animate.interpolate.PointInterpolator</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">PointInterpolator</text>
+        </a><a
+            xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/animate/interpolate/RectangleInterpolator.as"
+            target="_blank" transform="translate(691.2,-520)">
+            <circle fill="#999" r="3" />
+            <title>flare.animate.interpolate.RectangleInterpolator</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">RectangleInterpolator</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/data/converters/Converters.as"
+            target="_blank" transform="translate(691.2,-470)">
+            <circle fill="#999" r="3" />
+            <title>flare.data.converters.Converters</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">Converters</text>
+        </a><a
+            xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/data/converters/DelimitedTextConverter.as"
+            target="_blank" transform="translate(691.2,-460)">
+            <circle fill="#999" r="3" />
+            <title>flare.data.converters.DelimitedTextConverter</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">DelimitedTextConverter</text>
+        </a><a
+            xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/data/converters/GraphMLConverter.as"
+            target="_blank" transform="translate(691.2,-450)">
+            <circle fill="#999" r="3" />
+            <title>flare.data.converters.GraphMLConverter</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">GraphMLConverter</text>
+        </a><a
+            xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/data/converters/IDataConverter.as"
+            target="_blank" transform="translate(691.2,-440)">
+            <circle fill="#999" r="3" />
+            <title>flare.data.converters.IDataConverter</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">IDataConverter</text>
+        </a><a
+            xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/data/converters/JSONConverter.as"
+            target="_blank" transform="translate(691.2,-430)">
+            <circle fill="#999" r="3" />
+            <title>flare.data.converters.JSONConverter</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">JSONConverter</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/methods/add.as"
+            target="_blank" transform="translate(691.2,-185)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.methods.add</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">add</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/methods/and.as"
+            target="_blank" transform="translate(691.2,-175)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.methods.and</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">and</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/methods/average.as"
+            target="_blank" transform="translate(691.2,-165)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.methods.average</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">average</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/methods/count.as"
+            target="_blank" transform="translate(691.2,-155)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.methods.count</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">count</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/methods/distinct.as"
+            target="_blank" transform="translate(691.2,-145)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.methods.distinct</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">distinct</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/methods/div.as"
+            target="_blank" transform="translate(691.2,-135)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.methods.div</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">div</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/methods/eq.as"
+            target="_blank" transform="translate(691.2,-125)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.methods.eq</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">eq</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/methods/fn.as"
+            target="_blank" transform="translate(691.2,-115)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.methods.fn</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">fn</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/methods/gt.as"
+            target="_blank" transform="translate(691.2,-105)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.methods.gt</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">gt</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/methods/gte.as"
+            target="_blank" transform="translate(691.2,-95)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.methods.gte</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">gte</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/methods/iff.as"
+            target="_blank" transform="translate(691.2,-85)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.methods.iff</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">iff</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/methods/isa.as"
+            target="_blank" transform="translate(691.2,-75)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.methods.isa</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">isa</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/methods/lt.as"
+            target="_blank" transform="translate(691.2,-65)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.methods.lt</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">lt</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/methods/lte.as"
+            target="_blank" transform="translate(691.2,-55)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.methods.lte</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">lte</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/methods/max.as"
+            target="_blank" transform="translate(691.2,-45)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.methods.max</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">max</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/methods/min.as"
+            target="_blank" transform="translate(691.2,-35)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.methods.min</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">min</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/methods/mod.as"
+            target="_blank" transform="translate(691.2,-25)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.methods.mod</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">mod</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/methods/mul.as"
+            target="_blank" transform="translate(691.2,-15)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.methods.mul</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">mul</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/methods/neq.as"
+            target="_blank" transform="translate(691.2,-5)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.methods.neq</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">neq</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/methods/not.as"
+            target="_blank" transform="translate(691.2,5)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.methods.not</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">not</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/methods/or.as"
+            target="_blank" transform="translate(691.2,15)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.methods.or</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">or</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/methods/orderby.as"
+            target="_blank" transform="translate(691.2,25)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.methods.orderby</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">orderby</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/methods/range.as"
+            target="_blank" transform="translate(691.2,35)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.methods.range</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">range</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/methods/select.as"
+            target="_blank" transform="translate(691.2,45)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.methods.select</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">select</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/methods/stddev.as"
+            target="_blank" transform="translate(691.2,55)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.methods.stddev</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">stddev</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/methods/sub.as"
+            target="_blank" transform="translate(691.2,65)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.methods.sub</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">sub</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/methods/sum.as"
+            target="_blank" transform="translate(691.2,75)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.methods.sum</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">sum</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/methods/update.as"
+            target="_blank" transform="translate(691.2,85)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.methods.update</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">update</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/methods/variance.as"
+            target="_blank" transform="translate(691.2,95)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.methods.variance</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">variance</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/methods/where.as"
+            target="_blank" transform="translate(691.2,105)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.methods.where</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">where</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/methods/xor.as"
+            target="_blank" transform="translate(691.2,115)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.methods.xor</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">xor</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/query/methods/_.as"
+            target="_blank" transform="translate(691.2,125)">
+            <circle fill="#999" r="3" />
+            <title>flare.query.methods._</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">_</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/util/heap/FibonacciHeap.as"
+            target="_blank" transform="translate(691.2,255)">
+            <circle fill="#999" r="3" />
+            <title>flare.util.heap.FibonacciHeap</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">FibonacciHeap</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/util/heap/HeapNode.as"
+            target="_blank" transform="translate(691.2,265)">
+            <circle fill="#999" r="3" />
+            <title>flare.util.heap.HeapNode</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">HeapNode</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/util/math/DenseMatrix.as"
+            target="_blank" transform="translate(691.2,290)">
+            <circle fill="#999" r="3" />
+            <title>flare.util.math.DenseMatrix</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">DenseMatrix</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/util/math/IMatrix.as"
+            target="_blank" transform="translate(691.2,300)">
+            <circle fill="#999" r="3" />
+            <title>flare.util.math.IMatrix</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">IMatrix</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/util/math/SparseMatrix.as"
+            target="_blank" transform="translate(691.2,310)">
+            <circle fill="#999" r="3" />
+            <title>flare.util.math.SparseMatrix</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">SparseMatrix</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/util/palette/ColorPalette.as"
+            target="_blank" transform="translate(691.2,330)">
+            <circle fill="#999" r="3" />
+            <title>flare.util.palette.ColorPalette</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">ColorPalette</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/util/palette/Palette.as"
+            target="_blank" transform="translate(691.2,340)">
+            <circle fill="#999" r="3" />
+            <title>flare.util.palette.Palette</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">Palette</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/util/palette/ShapePalette.as"
+            target="_blank" transform="translate(691.2,350)">
+            <circle fill="#999" r="3" />
+            <title>flare.util.palette.ShapePalette</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">ShapePalette</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/util/palette/SizePalette.as"
+            target="_blank" transform="translate(691.2,360)">
+            <circle fill="#999" r="3" />
+            <title>flare.util.palette.SizePalette</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">SizePalette</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/axis/Axes.as"
+            target="_blank" transform="translate(691.2,395)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.axis.Axes</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">Axes</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/axis/Axis.as"
+            target="_blank" transform="translate(691.2,405)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.axis.Axis</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">Axis</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/axis/AxisGridLine.as"
+            target="_blank" transform="translate(691.2,415)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.axis.AxisGridLine</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">AxisGridLine</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/axis/AxisLabel.as"
+            target="_blank" transform="translate(691.2,425)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.axis.AxisLabel</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">AxisLabel</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/axis/CartesianAxes.as"
+            target="_blank" transform="translate(691.2,435)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.axis.CartesianAxes</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">CartesianAxes</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/controls/AnchorControl.as"
+            target="_blank" transform="translate(691.2,455)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.controls.AnchorControl</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">AnchorControl</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/controls/ClickControl.as"
+            target="_blank" transform="translate(691.2,465)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.controls.ClickControl</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">ClickControl</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/controls/Control.as"
+            target="_blank" transform="translate(691.2,475)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.controls.Control</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">Control</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/controls/ControlList.as"
+            target="_blank" transform="translate(691.2,485)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.controls.ControlList</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">ControlList</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/controls/DragControl.as"
+            target="_blank" transform="translate(691.2,495)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.controls.DragControl</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">DragControl</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/controls/ExpandControl.as"
+            target="_blank" transform="translate(691.2,505)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.controls.ExpandControl</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">ExpandControl</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/controls/HoverControl.as"
+            target="_blank" transform="translate(691.2,515)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.controls.HoverControl</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">HoverControl</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/controls/IControl.as"
+            target="_blank" transform="translate(691.2,525)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.controls.IControl</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">IControl</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/controls/PanZoomControl.as"
+            target="_blank" transform="translate(691.2,535)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.controls.PanZoomControl</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">PanZoomControl</text>
+        </a><a
+            xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/controls/SelectionControl.as"
+            target="_blank" transform="translate(691.2,545)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.controls.SelectionControl</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">SelectionControl</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/controls/TooltipControl.as"
+            target="_blank" transform="translate(691.2,555)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.controls.TooltipControl</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">TooltipControl</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/data/Data.as"
+            target="_blank" transform="translate(691.2,575)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.data.Data</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">Data</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/data/DataList.as"
+            target="_blank" transform="translate(691.2,585)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.data.DataList</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">DataList</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/data/DataSprite.as"
+            target="_blank" transform="translate(691.2,595)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.data.DataSprite</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">DataSprite</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/data/EdgeSprite.as"
+            target="_blank" transform="translate(691.2,605)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.data.EdgeSprite</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">EdgeSprite</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/data/NodeSprite.as"
+            target="_blank" transform="translate(691.2,615)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.data.NodeSprite</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">NodeSprite</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/tree/master/flare/src/flare/vis/data/render" target="_blank"
+            transform="translate(691.2,625)">
+            <circle fill="#555" r="3" />
+            <title>flare.vis.data.render</title><text dy="0.32em" x="-6" text-anchor="end" paint-order="stroke"
+                stroke="#fff" stroke-width="3">render</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/data/ScaleBinding.as"
+            target="_blank" transform="translate(691.2,635)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.data.ScaleBinding</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">ScaleBinding</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/data/Tree.as"
+            target="_blank" transform="translate(691.2,645)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.data.Tree</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">Tree</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/data/TreeBuilder.as"
+            target="_blank" transform="translate(691.2,655)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.data.TreeBuilder</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">TreeBuilder</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/events/DataEvent.as"
+            target="_blank" transform="translate(691.2,675)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.events.DataEvent</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">DataEvent</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/events/SelectionEvent.as"
+            target="_blank" transform="translate(691.2,685)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.events.SelectionEvent</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">SelectionEvent</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/events/TooltipEvent.as"
+            target="_blank" transform="translate(691.2,695)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.events.TooltipEvent</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">TooltipEvent</text>
+        </a><a
+            xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/events/VisualizationEvent.as"
+            target="_blank" transform="translate(691.2,705)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.events.VisualizationEvent</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">VisualizationEvent</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/legend/Legend.as"
+            target="_blank" transform="translate(691.2,725)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.legend.Legend</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">Legend</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/legend/LegendItem.as"
+            target="_blank" transform="translate(691.2,735)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.legend.LegendItem</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">LegendItem</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/legend/LegendRange.as"
+            target="_blank" transform="translate(691.2,745)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.legend.LegendRange</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">LegendRange</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/tree/master/flare/src/flare/vis/operator/distortion"
+            target="_blank" transform="translate(691.2,765)">
+            <circle fill="#555" r="3" />
+            <title>flare.vis.operator.distortion</title><text dy="0.32em" x="-6" text-anchor="end" paint-order="stroke"
+                stroke="#fff" stroke-width="3">distortion</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/tree/master/flare/src/flare/vis/operator/encoder"
+            target="_blank" transform="translate(691.2,815)">
+            <circle fill="#555" r="3" />
+            <title>flare.vis.operator.encoder</title><text dy="0.32em" x="-6" text-anchor="end" paint-order="stroke"
+                stroke="#fff" stroke-width="3">encoder</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/tree/master/flare/src/flare/vis/operator/filter"
+            target="_blank" transform="translate(691.2,865)">
+            <circle fill="#555" r="3" />
+            <title>flare.vis.operator.filter</title><text dy="0.32em" x="-6" text-anchor="end" paint-order="stroke"
+                stroke="#fff" stroke-width="3">filter</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/operator/IOperator.as"
+            target="_blank" transform="translate(691.2,885)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.operator.IOperator</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">IOperator</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/tree/master/flare/src/flare/vis/operator/label"
+            target="_blank" transform="translate(691.2,905)">
+            <circle fill="#555" r="3" />
+            <title>flare.vis.operator.label</title><text dy="0.32em" x="-6" text-anchor="end" paint-order="stroke"
+                stroke="#fff" stroke-width="3">label</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/tree/master/flare/src/flare/vis/operator/layout"
+            target="_blank" transform="translate(691.2,1005)">
+            <circle fill="#555" r="3" />
+            <title>flare.vis.operator.layout</title><text dy="0.32em" x="-6" text-anchor="end" paint-order="stroke"
+                stroke="#fff" stroke-width="3">layout</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/operator/Operator.as"
+            target="_blank" transform="translate(691.2,1015)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.operator.Operator</title><text dy="0.32em" x="6" text-anchor="start" paint-order="stroke"
+                stroke="#fff" stroke-width="3">Operator</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/operator/OperatorList.as"
+            target="_blank" transform="translate(691.2,1025)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.operator.OperatorList</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">OperatorList</text>
+        </a><a
+            xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/operator/OperatorSequence.as"
+            target="_blank" transform="translate(691.2,1035)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.operator.OperatorSequence</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">OperatorSequence</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/operator/OperatorSwitch.as"
+            target="_blank" transform="translate(691.2,1045)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.operator.OperatorSwitch</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">OperatorSwitch</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/operator/SortOperator.as"
+            target="_blank" transform="translate(691.2,1055)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.operator.SortOperator</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">SortOperator</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/data/render/ArrowType.as"
+            target="_blank" transform="translate(921.6,610)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.data.render.ArrowType</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">ArrowType</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/data/render/EdgeRenderer.as"
+            target="_blank" transform="translate(921.6,620)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.data.render.EdgeRenderer</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">EdgeRenderer</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/data/render/IRenderer.as"
+            target="_blank" transform="translate(921.6,630)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.data.render.IRenderer</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">IRenderer</text>
+        </a><a
+            xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/data/render/ShapeRenderer.as"
+            target="_blank" transform="translate(921.6,640)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.data.render.ShapeRenderer</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">ShapeRenderer</text>
+        </a><a
+            xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/operator/distortion/BifocalDistortion.as"
+            target="_blank" transform="translate(921.6,755)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.operator.distortion.BifocalDistortion</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">BifocalDistortion</text>
+        </a><a
+            xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/operator/distortion/Distortion.as"
+            target="_blank" transform="translate(921.6,765)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.operator.distortion.Distortion</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">Distortion</text>
+        </a><a
+            xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/operator/distortion/FisheyeDistortion.as"
+            target="_blank" transform="translate(921.6,775)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.operator.distortion.FisheyeDistortion</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">FisheyeDistortion</text>
+        </a><a
+            xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/operator/encoder/ColorEncoder.as"
+            target="_blank" transform="translate(921.6,795)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.operator.encoder.ColorEncoder</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">ColorEncoder</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/operator/encoder/Encoder.as"
+            target="_blank" transform="translate(921.6,805)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.operator.encoder.Encoder</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">Encoder</text>
+        </a><a
+            xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/operator/encoder/PropertyEncoder.as"
+            target="_blank" transform="translate(921.6,815)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.operator.encoder.PropertyEncoder</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">PropertyEncoder</text>
+        </a><a
+            xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/operator/encoder/ShapeEncoder.as"
+            target="_blank" transform="translate(921.6,825)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.operator.encoder.ShapeEncoder</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">ShapeEncoder</text>
+        </a><a
+            xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/operator/encoder/SizeEncoder.as"
+            target="_blank" transform="translate(921.6,835)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.operator.encoder.SizeEncoder</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">SizeEncoder</text>
+        </a><a
+            xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/operator/filter/FisheyeTreeFilter.as"
+            target="_blank" transform="translate(921.6,855)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.operator.filter.FisheyeTreeFilter</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">FisheyeTreeFilter</text>
+        </a><a
+            xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/operator/filter/GraphDistanceFilter.as"
+            target="_blank" transform="translate(921.6,865)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.operator.filter.GraphDistanceFilter</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">GraphDistanceFilter</text>
+        </a><a
+            xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/operator/filter/VisibilityFilter.as"
+            target="_blank" transform="translate(921.6,875)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.operator.filter.VisibilityFilter</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">VisibilityFilter</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/operator/label/Labeler.as"
+            target="_blank" transform="translate(921.6,895)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.operator.label.Labeler</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">Labeler</text>
+        </a><a
+            xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/operator/label/RadialLabeler.as"
+            target="_blank" transform="translate(921.6,905)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.operator.label.RadialLabeler</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">RadialLabeler</text>
+        </a><a
+            xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/operator/label/StackedAreaLabeler.as"
+            target="_blank" transform="translate(921.6,915)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.operator.label.StackedAreaLabeler</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">StackedAreaLabeler</text>
+        </a><a
+            xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/operator/layout/AxisLayout.as"
+            target="_blank" transform="translate(921.6,935)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.operator.layout.AxisLayout</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">AxisLayout</text>
+        </a><a
+            xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/operator/layout/BundledEdgeRouter.as"
+            target="_blank" transform="translate(921.6,945)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.operator.layout.BundledEdgeRouter</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">BundledEdgeRouter</text>
+        </a><a
+            xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/operator/layout/CircleLayout.as"
+            target="_blank" transform="translate(921.6,955)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.operator.layout.CircleLayout</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">CircleLayout</text>
+        </a><a
+            xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/operator/layout/CirclePackingLayout.as"
+            target="_blank" transform="translate(921.6,965)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.operator.layout.CirclePackingLayout</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">CirclePackingLayout</text>
+        </a><a
+            xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/operator/layout/DendrogramLayout.as"
+            target="_blank" transform="translate(921.6,975)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.operator.layout.DendrogramLayout</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">DendrogramLayout</text>
+        </a><a
+            xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/operator/layout/ForceDirectedLayout.as"
+            target="_blank" transform="translate(921.6,985)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.operator.layout.ForceDirectedLayout</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">ForceDirectedLayout</text>
+        </a><a
+            xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/operator/layout/IcicleTreeLayout.as"
+            target="_blank" transform="translate(921.6,995)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.operator.layout.IcicleTreeLayout</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">IcicleTreeLayout</text>
+        </a><a
+            xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/operator/layout/IndentedTreeLayout.as"
+            target="_blank" transform="translate(921.6,1005)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.operator.layout.IndentedTreeLayout</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">IndentedTreeLayout</text>
+        </a><a xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/operator/layout/Layout.as"
+            target="_blank" transform="translate(921.6,1015)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.operator.layout.Layout</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">Layout</text>
+        </a><a
+            xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/operator/layout/NodeLinkTreeLayout.as"
+            target="_blank" transform="translate(921.6,1025)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.operator.layout.NodeLinkTreeLayout</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">NodeLinkTreeLayout</text>
+        </a><a
+            xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/operator/layout/PieLayout.as"
+            target="_blank" transform="translate(921.6,1035)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.operator.layout.PieLayout</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">PieLayout</text>
+        </a><a
+            xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/operator/layout/RadialTreeLayout.as"
+            target="_blank" transform="translate(921.6,1045)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.operator.layout.RadialTreeLayout</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">RadialTreeLayout</text>
+        </a><a
+            xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/operator/layout/RandomLayout.as"
+            target="_blank" transform="translate(921.6,1055)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.operator.layout.RandomLayout</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">RandomLayout</text>
+        </a><a
+            xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/operator/layout/StackedAreaLayout.as"
+            target="_blank" transform="translate(921.6,1065)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.operator.layout.StackedAreaLayout</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">StackedAreaLayout</text>
+        </a><a
+            xlink:href="https://github.com/prefuse/Flare/blob/master/flare/src/flare/vis/operator/layout/TreeMapLayout.as"
+            target="_blank" transform="translate(921.6,1075)">
+            <circle fill="#999" r="3" />
+            <title>flare.vis.operator.layout.TreeMapLayout</title><text dy="0.32em" x="6" text-anchor="start"
+                paint-order="stroke" stroke="#fff" stroke-width="3">TreeMapLayout</text>
+        </a></g>
+
+    <g>
+        <text transform="translate(0, 1200)">
+            D3’s tree layout implements the Reingold–Tilford “tidy” algorithm for constructing hierarchical node-link diagrams, improved to run in linear time by Buchheim et al. Tidy trees are typically more compact than cluster dendrograms, which place all leaves at the same level. See also the radial variant.
+        </text>
+        <a transform="translate(0, 1210)"
+            xlink:href="https://observablehq.com/@d3/tree/2?intent=fork"><text>url</text></a>
+    </g>
+</svg>
