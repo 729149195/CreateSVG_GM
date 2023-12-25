@@ -1,7 +1,7 @@
 ## 测试：
 #### Windows:
 
-* `python -m venv test_env `建新环境
+* `python -m venv test_env`建新环境
 * `Set-ExecutionPolicy RemoteSigned`开启权限
 * `.\test_env\Scripts\activate`激活环境
 * `deactivate`退出测试环境
