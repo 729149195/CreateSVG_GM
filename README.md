@@ -1,5 +1,5 @@
-测试：
-Windows:
+## 测试：
+#### Windows:
 
 * `python -m venv test_env `建新环境
 * `Set-ExecutionPolicy RemoteSigned`开启权限
@@ -9,7 +9,7 @@ Windows:
 * `Remove-Item test_env -Recurse -Force`删除测试环境(PowerShell)
 
 
-Unix/Linux or MacOS:
+#### Unix/Linux or MacOS:
 
 * `python -m venv test_env `建新环境
 * `Set-ExecutionPolicy RemoteSigned`开启权限
@@ -17,5 +17,5 @@ Unix/Linux or MacOS:
 * `deactivate`退出测试环境
 * `rm -rf test_env`删除测试环境
 
-安装依赖：
+## 安装依赖：
 `pip install -r requirements.txt`
