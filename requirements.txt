@@ -1,0 +1,6 @@
+networkx==3.2.1
+plotly==5.18.0
+numpy==1.23.5
+networkx==3.2.1
+plotly==5.18.0
+numpy==1.23.5

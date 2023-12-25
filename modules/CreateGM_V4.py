@@ -6,7 +6,6 @@ import numpy as np
 import re
 import json
 
-
 class SVGParser:
     def __init__(self, file_path):
         self.file_path = file_path
