@@ -19,3 +19,6 @@
 
 ## 安装依赖：
 `pip install -r requirements.txt`
+
+
+GitHub URL: https://github.com/729149195/CreateSVG_GM
