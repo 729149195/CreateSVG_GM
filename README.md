@@ -11,7 +11,7 @@
 
 #### Unix/Linux or MacOS:
 
-* `python -m venv test_env `建新环境
+* `python -m venv test_env`建新环境
 * `Set-ExecutionPolicy RemoteSigned`开启权限
 * `source test_env/bin/activate`激活环境
 * `deactivate`退出测试环境
