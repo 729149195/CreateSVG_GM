@@ -1,0 +1,740 @@
+{
+    "DiGraph": {
+        "nodes": 16,
+        "edges": 25,
+        "Nodes": {
+            "svg/svg": {
+                "Attributes": {
+                    "tag": "svg",
+                    "attributes": {
+                        "width": "500",
+                        "height": "500"
+                    },
+                    "text_content": "",
+                    "level": 0,
+                    "layer": "0",
+                    "visible": false
+                }
+            },
+            "svg/svg/line": {
+                "Attributes": {
+                    "tag": "line",
+                    "attributes": {
+                        "x1": "300",
+                        "y1": "400",
+                        "x2": "350",
+                        "y2": "450",
+                        "stroke": "grey",
+                        "width": "500",
+                        "height": "500",
+                        "bbox": [
+                            [
+                                300.0,
+                                350.0
+                            ],
+                            [
+                                400.0,
+                                450.0
+                            ],
+                            [
+                                325.0,
+                                425.0
+                            ]
+                        ]
+                    },
+                    "text_content": null,
+                    "level": 1,
+                    "layer": "0_0",
+                    "visible": true
+                }
+            },
+            "svg/svg/polyline": {
+                "Attributes": {
+                    "tag": "polyline",
+                    "attributes": {
+                        "points": "30,450 60,480 30,510",
+                        "stroke": "black",
+                        "fill": "none",
+                        "width": "500",
+                        "height": "500",
+                        "bbox": [
+                            [
+                                30.0,
+                                450.0
+                            ],
+                            [
+                                60.0,
+                                450.0
+                            ],
+                            [
+                                60.0,
+                                510.0
+                            ],
+                            [
+                                30.0,
+                                510.0
+                            ]
+                        ]
+                    },
+                    "text_content": null,
+                    "level": 1,
+                    "layer": "0_1",
+                    "visible": true
+                }
+            },
+            "svg/svg/polygon": {
+                "Attributes": {
+                    "tag": "polygon",
+                    "attributes": {
+                        "points": "400,10 450,30 400,50",
+                        "fill": "yellow",
+                        "width": "500",
+                        "height": "500",
+                        "bbox": [
+                            [
+                                400.0,
+                                10.0
+                            ],
+                            [
+                                450.0,
+                                10.0
+                            ],
+                            [
+                                450.0,
+                                50.0
+                            ],
+                            [
+                                400.0,
+                                50.0
+                            ]
+                        ]
+                    },
+                    "text_content": null,
+                    "level": 1,
+                    "layer": "0_2",
+                    "visible": true
+                }
+            },
+            "svg/svg/ellipse": {
+                "Attributes": {
+                    "tag": "ellipse",
+                    "attributes": {
+                        "cx": "300",
+                        "cy": "300",
+                        "rx": "30",
+                        "ry": "20",
+                        "fill": "purple",
+                        "width": "500",
+                        "height": "500",
+                        "bbox": [
+                            [
+                                270.0,
+                                330.0
+                            ],
+                            [
+                                280.0,
+                                320.0
+                            ],
+                            [
+                                300.0,
+                                300.0
+                            ]
+                        ]
+                    },
+                    "text_content": null,
+                    "level": 1,
+                    "layer": "0_3",
+                    "visible": true
+                }
+            },
+            "svg/svg/g": {
+                "Attributes": {
+                    "tag": "g",
+                    "attributes": {
+                        "width": "500",
+                        "height": "500"
+                    },
+                    "text_content": "",
+                    "level": 1,
+                    "layer": "0_4",
+                    "visible": false
+                }
+            },
+            "svg/svg/g/path": {
+                "Attributes": {
+                    "tag": "path",
+                    "attributes": {
+                        "d": "M150,150 L200,200 L150,250 Z",
+                        "fill": "yellow",
+                        "Pcode": [
+                            "M",
+                            "L",
+                            "L",
+                            "Z"
+                        ],
+                        "Pnums": [
+                            [
+                                "150",
+                                "150"
+                            ],
+                            [
+                                "200",
+                                "200"
+                            ],
+                            [
+                                "150",
+                                "250"
+                            ],
+                            []
+                        ],
+                        "width": "500",
+                        "height": "500",
+                        "bbox": [
+                            [
+                                150.0,
+                                150.0
+                            ],
+                            [
+                                200.0,
+                                200.0
+                            ],
+                            [
+                                150.0,
+                                250.0
+                            ]
+                        ]
+                    },
+                    "text_content": null,
+                    "level": 2,
+                    "layer": "0_4_4",
+                    "visible": true
+                }
+            },
+            "svg/svg/g/path_1": {
+                "Attributes": {
+                    "tag": "path_1",
+                    "attributes": {
+                        "d": "M10,10 L50,50 Q100,15 150,50 T200,100 C250,150 300,100 350,150 L400,200",
+                        "fill": "yellow",
+                        "Pcode": [
+                            "M",
+                            "L",
+                            "Q",
+                            "T",
+                            "C",
+                            "L"
+                        ],
+                        "Pnums": [
+                            [
+                                "10",
+                                "10"
+                            ],
+                            [
+                                "50",
+                                "50"
+                            ],
+                            [
+                                "100",
+                                "15",
+                                "150",
+                                "50"
+                            ],
+                            [
+                                "200",
+                                "100"
+                            ],
+                            [
+                                "250",
+                                "150",
+                                "300",
+                                "100",
+                                "350",
+                                "150"
+                            ],
+                            [
+                                "400",
+                                "200"
+                            ]
+                        ],
+                        "width": "500",
+                        "height": "500",
+                        "bbox": [
+                            [
+                                10.0,
+                                10.0
+                            ],
+                            [
+                                50.0,
+                                50.0
+                            ],
+                            [
+                                250.0,
+                                150.0
+                            ],
+                            [
+                                255.26315789473688,
+                                145.01385041551248
+                            ],
+                            [
+                                260.5263157894737,
+                                140.58171745152353
+                            ],
+                            [
+                                265.78947368421046,
+                                136.7036011080332
+                            ],
+                            [
+                                271.0526315789474,
+                                133.37950138504155
+                            ],
+                            [
+                                276.3157894736842,
+                                130.6094182825485
+                            ],
+                            [
+                                281.57894736842104,
+                                128.393351800554
+                            ],
+                            [
+                                286.84210526315786,
+                                126.73130193905817
+                            ],
+                            [
+                                292.10526315789474,
+                                125.62326869806094
+                            ],
+                            [
+                                297.3684210526316,
+                                125.06925207756234
+                            ],
+                            [
+                                302.63157894736844,
+                                125.06925207756234
+                            ],
+                            [
+                                307.8947368421053,
+                                125.62326869806094
+                            ],
+                            [
+                                313.1578947368421,
+                                126.73130193905817
+                            ],
+                            [
+                                318.42105263157896,
+                                128.393351800554
+                            ],
+                            [
+                                323.6842105263158,
+                                130.60941828254846
+                            ],
+                            [
+                                328.94736842105266,
+                                133.37950138504158
+                            ],
+                            [
+                                334.2105263157895,
+                                136.70360110803324
+                            ],
+                            [
+                                339.4736842105263,
+                                140.58171745152353
+                            ],
+                            [
+                                344.7368421052632,
+                                145.01385041551245
+                            ],
+                            [
+                                350.0,
+                                150.0
+                            ],
+                            [
+                                400.0,
+                                200.0
+                            ]
+                        ]
+                    },
+                    "text_content": null,
+                    "level": 2,
+                    "layer": "0_4_5",
+                    "visible": true
+                }
+            },
+            "svg/svg/g/path_2": {
+                "Attributes": {
+                    "tag": "path_2",
+                    "attributes": {
+                        "d": "M150,150 L200,200 L150,250 Z",
+                        "fill": "none",
+                        "Pcode": [
+                            "M",
+                            "L",
+                            "L",
+                            "Z"
+                        ],
+                        "Pnums": [
+                            [
+                                "150",
+                                "150"
+                            ],
+                            [
+                                "200",
+                                "200"
+                            ],
+                            [
+                                "150",
+                                "250"
+                            ],
+                            []
+                        ],
+                        "width": "500",
+                        "height": "500",
+                        "bbox": [
+                            [
+                                150.0,
+                                150.0
+                            ],
+                            [
+                                200.0,
+                                200.0
+                            ],
+                            [
+                                150.0,
+                                250.0
+                            ]
+                        ]
+                    },
+                    "text_content": null,
+                    "level": 2,
+                    "layer": "0_4_6",
+                    "visible": true
+                }
+            },
+            "svg/svg/g_1": {
+                "Attributes": {
+                    "tag": "g_1",
+                    "attributes": {
+                        "transform": "translate(50.0, 50.0) rotate(0.0) scale(1.0, 1.0)",
+                        "width": "500",
+                        "height": "500"
+                    },
+                    "text_content": "",
+                    "level": 1,
+                    "layer": "0_5",
+                    "visible": false
+                }
+            },
+            "svg/svg/g_1/g_2": {
+                "Attributes": {
+                    "tag": "g_2",
+                    "attributes": {
+                        "transform": "translate(50.0, 50.0) rotate(45.0) scale(1.0, 1.0)",
+                        "width": "500",
+                        "height": "500"
+                    },
+                    "text_content": "",
+                    "level": 2,
+                    "layer": "0_5_5",
+                    "visible": false
+                }
+            },
+            "svg/svg/g_1/g_2/g_3": {
+                "Attributes": {
+                    "tag": "g_3",
+                    "attributes": {
+                        "transform": "translate(50.0, 50.0) rotate(45.0) scale(0.5, 0.5)",
+                        "width": "500",
+                        "height": "500"
+                    },
+                    "text_content": "",
+                    "level": 3,
+                    "layer": "0_5_5_5",
+                    "visible": false
+                }
+            },
+            "svg/svg/g_1/g_2/g_3/ellipse_1": {
+                "Attributes": {
+                    "tag": "ellipse_1",
+                    "attributes": {
+                        "cx": "160",
+                        "cy": "60",
+                        "rx": "15",
+                        "ry": "10",
+                        "fill": "orange",
+                        "transform": "translate(50.0, 50.0) rotate(45.0) scale(0.5, 0.5)",
+                        "width": "500",
+                        "height": "500",
+                        "bbox": [
+                            [
+                                145.0,
+                                175.0
+                            ],
+                            [
+                                50.0,
+                                70.0
+                            ],
+                            [
+                                160.0,
+                                60.0
+                            ]
+                        ]
+                    },
+                    "text_content": null,
+                    "level": 4,
+                    "layer": "0_5_5_5_5",
+                    "visible": true
+                }
+            },
+            "svg/svg/g_1/g_2/circle": {
+                "Attributes": {
+                    "tag": "circle",
+                    "attributes": {
+                        "cx": "100",
+                        "cy": "50",
+                        "r": "20",
+                        "fill": "green",
+                        "transform": "translate(50.0, 50.0) rotate(45.0) scale(1.0, 1.0)",
+                        "width": "500",
+                        "height": "500",
+                        "bbox": [
+                            [
+                                80.0,
+                                120.0
+                            ],
+                            [
+                                30.0,
+                                70.0
+                            ],
+                            [
+                                100.0,
+                                50.0
+                            ]
+                        ]
+                    },
+                    "text_content": null,
+                    "level": 3,
+                    "layer": "0_5_5_6",
+                    "visible": true
+                }
+            },
+            "svg/svg/g_1/rect": {
+                "Attributes": {
+                    "tag": "rect",
+                    "attributes": {
+                        "x": "10",
+                        "y": "10",
+                        "width": "500",
+                        "height": "500",
+                        "fill": "red",
+                        "transform": "translate(150.0, 150.0) rotate(30.0) scale(1.5, 1.5)",
+                        "bbox": [
+                            [
+                                67.99038105676658,
+                                185.44228634059948
+                            ],
+                            [
+                                67.99038105676658,
+                                185.44228634059948
+                            ],
+                            [
+                                119.21633369868303,
+                                171.71633369868303
+                            ]
+                        ]
+                    },
+                    "text_content": null,
+                    "level": 2,
+                    "layer": "0_5_6",
+                    "visible": true
+                }
+            },
+            "svg/svg/g_1/rect_1": {
+                "Attributes": {
+                    "tag": "rect_1",
+                    "attributes": {
+                        "x": "10",
+                        "y": "10",
+                        "width": "500",
+                        "height": "500",
+                        "fill": "red",
+                        "transform": "translate(50.0, 50.0) rotate(0.0) scale(1.0, 1.0)",
+                        "bbox": [
+                            [
+                                10.0,
+                                60.0
+                            ],
+                            [
+                                10.0,
+                                60.0
+                            ],
+                            [
+                                35.0,
+                                35.0
+                            ]
+                        ]
+                    },
+                    "text_content": null,
+                    "level": 2,
+                    "layer": "0_5_7",
+                    "visible": true
+                }
+            }
+        },
+        "Edges": [
+            [
+                "svg/svg",
+                "svg/svg/line",
+                {}
+            ],
+            [
+                "svg/svg",
+                "svg/svg/polyline",
+                {}
+            ],
+            [
+                "svg/svg",
+                "svg/svg/polygon",
+                {}
+            ],
+            [
+                "svg/svg",
+                "svg/svg/ellipse",
+                {}
+            ],
+            [
+                "svg/svg",
+                "svg/svg/g",
+                {}
+            ],
+            [
+                "svg/svg",
+                "svg/svg/g_1",
+                {}
+            ],
+            [
+                "svg/svg/line",
+                "svg/svg/polyline",
+                {
+                    "color": "blue",
+                    "style": "solid"
+                }
+            ],
+            [
+                "svg/svg/polyline",
+                "svg/svg/polygon",
+                {
+                    "color": "blue",
+                    "style": "solid"
+                }
+            ],
+            [
+                "svg/svg/polygon",
+                "svg/svg/ellipse",
+                {
+                    "color": "blue",
+                    "style": "solid"
+                }
+            ],
+            [
+                "svg/svg/ellipse",
+                "svg/svg/g",
+                {
+                    "color": "blue",
+                    "style": "solid"
+                }
+            ],
+            [
+                "svg/svg/g",
+                "svg/svg/g/path",
+                {}
+            ],
+            [
+                "svg/svg/g",
+                "svg/svg/g/path_1",
+                {}
+            ],
+            [
+                "svg/svg/g",
+                "svg/svg/g/path_2",
+                {}
+            ],
+            [
+                "svg/svg/g",
+                "svg/svg/g_1",
+                {
+                    "color": "blue",
+                    "style": "solid"
+                }
+            ],
+            [
+                "svg/svg/g/path",
+                "svg/svg/g/path_1",
+                {
+                    "color": "blue",
+                    "style": "solid"
+                }
+            ],
+            [
+                "svg/svg/g/path_1",
+                "svg/svg/g/path_2",
+                {
+                    "color": "blue",
+                    "style": "solid"
+                }
+            ],
+            [
+                "svg/svg/g_1",
+                "svg/svg/g_1/g_2",
+                {}
+            ],
+            [
+                "svg/svg/g_1",
+                "svg/svg/g_1/rect",
+                {}
+            ],
+            [
+                "svg/svg/g_1",
+                "svg/svg/g_1/rect_1",
+                {}
+            ],
+            [
+                "svg/svg/g_1/g_2",
+                "svg/svg/g_1/g_2/g_3",
+                {}
+            ],
+            [
+                "svg/svg/g_1/g_2",
+                "svg/svg/g_1/g_2/circle",
+                {}
+            ],
+            [
+                "svg/svg/g_1/g_2",
+                "svg/svg/g_1/rect",
+                {
+                    "color": "blue",
+                    "style": "solid"
+                }
+            ],
+            [
+                "svg/svg/g_1/g_2/g_3",
+                "svg/svg/g_1/g_2/g_3/ellipse_1",
+                {}
+            ],
+            [
+                "svg/svg/g_1/g_2/g_3",
+                "svg/svg/g_1/g_2/circle",
+                {
+                    "color": "blue",
+                    "style": "solid"
+                }
+            ],
+            [
+                "svg/svg/g_1/rect",
+                "svg/svg/g_1/rect_1",
+                {
+                    "color": "blue",
+                    "style": "solid"
+                }
+            ]
+        ]
+    }
+}
