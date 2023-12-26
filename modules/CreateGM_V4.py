@@ -9,9 +9,8 @@ import json
 class SVGParser:
     def __init__(self, file_path):
         self.file_path = file_path
-        self.graph = nx.DiGraph()
+        self.graph = nx.MultiDiGraph()
         self.existing_tags = {}
-
 
     @staticmethod
     def parse_svg(file_path):
@@ -19,7 +18,7 @@ class SVGParser:
         return tree.getroot()
 
     @staticmethod
-    def default_attributes(tag):
+    def default_attributes(tag): #提供默认属性，确保在解析和绘制过程中的一致性和完整性
         default_attrs = {
             "rect": {"width": "0", "height": "0", "x": "0", "y": "0", "fill": "black"},
             "circle": {"cx": "0", "cy": "0", "r": "0", "fill": "black"},
@@ -32,7 +31,7 @@ class SVGParser:
             "image": {"x": "0", "y": "0", "width": "0", "height": "0"},
             # 添加更多元素类型及其默认属性
         }
-        return default_attrs.get(tag, {})
+        return default_attrs.get(tag, {}) #若找不到对应的tag，则返回{}空对象
 
     @staticmethod
     def get_coordinate_attributes(element, tag):
@@ -46,7 +45,7 @@ class SVGParser:
             "polygon": ["points"],
             "text": ["x", "y"],
             "image": ["x", "y", "width", "height"],
-            # 添加其他元素类型
+            # path元素的d属性在之后做特殊处理
         }
 
         # 获取元素类型的坐标属性列表
@@ -60,8 +59,22 @@ class SVGParser:
 
         return coordinates
 
-    @staticmethod
-    def extract_element_info(element, existing_tags):
+    def convert_units(self, value, context_size=16):
+
+        if isinstance(value, str):  # 确保值为字符串
+            if value.endswith("em"):
+                return float(value[:-2]) * context_size
+            elif value.endswith("px"):
+                return float(value[:-2])
+            elif value.endswith("pt"):
+                # 1pt = 1/72 of 1in, and assuming 96px per 1in, hence 1.33px in 1pt
+                return float(value[:-2]) * 1.33
+            # 这里可以继续添加其他单位的转换逻辑
+        # 如果没有单位或者值不是字符串，返回原始值
+        return value
+
+
+    def extract_element_info(self, element, existing_tags):  #从一个SVG元素中提取所有重要的信息，包括标签、属性和文本内容
         tag_with_namespace = element.tag
         tag_without_namespace = tag_with_namespace.split("}")[-1]
     
@@ -81,9 +94,24 @@ class SVGParser:
 
         # 应用默认属性
         default_attrs = SVGParser.default_attributes(tag_without_namespace)
+        
         attributes = element.attrib.copy()  # 复制原始属性
+        
         for key, value in default_attrs.items():
             attributes.setdefault(key, value)  # 如果属性未在元素中定义，则使用默认值
+        
+        # 定义所有需要检查单位的属性
+        unit_attributes = [
+            "width", "height", "x", "y", "rx", "ry",
+            "cx", "cy", "r",
+            "x1", "y1", "x2", "y2"
+            # "points" 需要特别处理，因为它是一系列的点
+        ]
+        
+        # 应用单位转换到特定属性
+        for attr in unit_attributes:
+            if attr in attributes:
+                attributes[attr] = self.convert_units(attributes[attr])
         
         # 对d属性进行特殊处理
         if tag_without_namespace == "path":
@@ -103,7 +131,7 @@ class SVGParser:
 
 
     @staticmethod
-    def parse_path_d_attribute(d_attribute):
+    def parse_path_d_attribute(d_attribute):  #返回两个列表：Pcode包含所有的路径指令，Pnums包含与每个指令相对应的参数列表
         path_commands = re.findall(r"([a-zA-Z])([^a-zA-Z]*)", d_attribute)
         Pcode, Pnums = [], []
 
@@ -119,15 +147,16 @@ class SVGParser:
 
     @staticmethod
     def approximate_bezier_curve(points, num_points=10):
-        t_values = np.linspace(0, 1, num_points)
-        curve_points = []
-
-        if len(points) == 3:
+        t_values = np.linspace(0, 1, num_points)  #生成一个线性等分向量，这个向量将用于计算曲线上的点
+        curve_points = [] #用于存储计算出的曲线上的点
+        
+        if len(points) == 3: #用于二次贝塞尔曲线（3个点）
             P0, P1, P2 = points
             for t in t_values:
                 point = (1 - t) ** 2 * P0 + 2 * (1 - t) * t * P1 + t**2 * P2
                 curve_points.append(point)
-        elif len(points) == 4:
+                
+        elif len(points) == 4: #三次贝塞尔曲线（4个点）
             P0, P1, P2, P3 = points
             for t in t_values:
                 point = (
@@ -180,7 +209,7 @@ class SVGParser:
         return np.array(path_points)
 
 
-    def apply_transform(self, bbox, transform):
+    def apply_transform(self, bbox, transform): #用于应用变换到定界框bbox上, 包括平移、旋转、缩放
         # 转换 transform 字典为变换矩阵
         transform_matrix = self.transform_to_matrix(transform)
 
@@ -192,27 +221,27 @@ class SVGParser:
             # 应用变换
             transformed_point = np.dot(transform_matrix, point_homogeneous)
             # 变回2D坐标
-            transformed_bbox.append(transformed_point[:2])
+            transformed_bbox.append(transformed_point[:2])  #将变换后的点（现在是3D齐次坐标）转换回2D坐标，并添加到transformed_bbox列表
 
         return np.array(transformed_bbox)
 
     
-    def transform_to_matrix(self, transform):
+    def transform_to_matrix(self, transform):  #用于将SVG中的变换（如平移、旋转和缩放）转换成一个3x3的变换矩阵。这个矩阵之后可以应用到图形元素的点上，以执行实际的变换
         # 创建初始变换矩阵
-        transform_matrix = np.identity(3)
+        transform_matrix = np.identity(3)  #创建一个3x3的单位矩阵，这是变换矩阵的起始状态
 
-        # 应用平移
+        # 应用平移  直接修改矩阵的第一行和第二行的最后一列，以添加平移变换
         transform_matrix[0, 2] = transform["translate"][0]
         transform_matrix[1, 2] = transform["translate"][1]
 
-        # 应用旋转
-        angle = np.radians(transform["rotate"])
-        rotation_matrix = np.array([
+        # 应用旋转  
+        angle = np.radians(transform["rotate"])  #首先将旋转角度从度转换为弧度，因为三角函数在Python中使用的是弧度
+        rotation_matrix = np.array([   #创建一个旋转矩阵，表示旋转变换
             [np.cos(angle), -np.sin(angle), 0],
             [np.sin(angle), np.cos(angle), 0],
             [0, 0, 1]
         ])
-        transform_matrix = np.dot(transform_matrix, rotation_matrix)
+        transform_matrix = np.dot(transform_matrix, rotation_matrix)  #使用np.dot将旋转矩阵与初始变换矩阵相乘，合并旋转到总变换中
 
         # 应用缩放
         scale_matrix = np.array([
@@ -220,18 +249,18 @@ class SVGParser:
             [0, transform["scale"][1], 0],
             [0, 0, 1]
         ])
-        transform_matrix = np.dot(transform_matrix, scale_matrix)
+        transform_matrix = np.dot(transform_matrix, scale_matrix)  #再次使用np.dot将缩放矩阵与当前变换矩阵相乘，合并缩放到总变换中
 
-        return transform_matrix
+        return transform_matrix  #返回表示所有变换的合成矩阵
 
-    def convert_to_float(self, value):
+    def convert_to_float(self, value):  #将字符串值转换为浮点数
         try:
             return float(value)
         except ValueError:
             num_part = re.match(r"([0-9\.]+)", value)
             return float(num_part.group(1)) if num_part else 0.0
         
-    def get_element_bbox(self, element, parent_transform=np.identity(3)):
+    def get_element_bbox(self, element, parent_transform=np.identity(3)):  #用于计算SVG元素的定界框（Bounding Box）
         tag = element.tag.split('}')[-1]
         bbox = None
 
@@ -272,11 +301,15 @@ class SVGParser:
         elif tag in ["polygon", "polyline"]:
             points = element.get("points", "").strip()
             if points:
-                points_array = np.array([[self.convert_to_float(n) for n in point.split(",")] for point in points.split(" ") if point.strip()])
-                min_x, min_y = np.min(points_array, axis=0)
-                max_x, max_y = np.max(points_array, axis=0)
-                bbox = np.array([[min_x, min_y], [max_x, min_y], [max_x, max_y], [min_x, max_y]])
-
+                points_array = []
+                # 分割所有点，并转换为浮点数
+                for part in points.split():
+                    x, y = part.split(',')  # 假设点以"x,y"格式给出
+                    x, y = self.convert_to_float(x), self.convert_to_float(y)
+                    points_array.append([x, y])
+                # 使用点数组直接作为边界框
+                bbox = np.array(points_array)
+                
         elif tag == "text":
             x, y = map(self.convert_to_float, [element.get("x", 0), element.get("y", 0)])
             # 这里假设一个默认的宽度和高度，因为无法精确计算
@@ -298,7 +331,7 @@ class SVGParser:
 
         return bbox
 
-    # 添加一个方法来解析 fill 属性
+    # 添加一个方法来解析 fill 属性  (has not used)
     def parse_fill_attribute(element, inherited_attrs):
         fill = element.get('fill')
         if fill is None and 'fill' in inherited_attrs:
@@ -338,7 +371,7 @@ class SVGParser:
             layer_counter=0,
         ):
             tag, attributes, text_content = SVGParser.extract_element_info(
-                element, self.existing_tags
+                self, element, self.existing_tags
             )
 
             combined_attributes = {**attributes, **inherited_attrs}
@@ -409,7 +442,7 @@ class SVGParser:
 
 
     @staticmethod
-    def compute_layout_with_progress(graph, num_steps=100, k=None):
+    def compute_layout_with_progress(graph, num_steps=100, k=None):  #使用NetworkX的弹簧布局算法(spring_layout)来计算图的布局
         if k is None:
             k = 1 / np.sqrt(len(graph.nodes()))
         pos = nx.spring_layout(graph, k=k, iterations=20)

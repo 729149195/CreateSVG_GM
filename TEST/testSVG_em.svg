@@ -1,0 +1,16 @@
+<svg width="200px" height="200px" xmlns="http://www.w3.org/2000/svg">
+    <!-- Rectangle with width and height in pixels -->
+    <rect x="10px" y="20px" width="50px" height="40px" fill="blue" />
+    
+    <!-- Circle with center coordinates and radius in different units -->
+    <circle cx="100px" cy="50px" r="25em" fill="red" />
+    
+    <!-- Ellipse with center coordinates in pixels and radii in points -->
+    <ellipse cx="150px" cy="100px" rx="30pt" ry="20pt" fill="green" />
+
+    <!-- Line with coordinates in pixels -->
+    <line x1="10px" y1="10px" x2="50px" y2="50px" stroke="black" />
+
+    <!-- Text element -->
+    <text x="10em" y="100px" fill="black">Test Text</text>
+</svg>

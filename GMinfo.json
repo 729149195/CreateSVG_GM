@@ -1,7 +1,7 @@
 {
     "DiGraph": {
-        "nodes": 16,
-        "edges": 25,
+        "nodes": 18,
+        "edges": 29,
         "Nodes": {
             "svg/svg": {
                 "Attributes": {
@@ -14,6 +14,74 @@
                     "level": 0,
                     "layer": "0",
                     "visible": false
+                }
+            },
+            "svg/svg/text": {
+                "Attributes": {
+                    "tag": "text",
+                    "attributes": {
+                        "x": "0",
+                        "y": "0",
+                        "fill": "black",
+                        "width": "500",
+                        "height": "500",
+                        "bbox": [
+                            [
+                                0.0,
+                                0.0
+                            ],
+                            [
+                                100.0,
+                                0.0
+                            ],
+                            [
+                                0.0,
+                                20.0
+                            ],
+                            [
+                                100.0,
+                                20.0
+                            ]
+                        ]
+                    },
+                    "text_content": "hello2",
+                    "level": 1,
+                    "layer": "0_0",
+                    "visible": true
+                }
+            },
+            "svg/svg/text_1": {
+                "Attributes": {
+                    "tag": "text_1",
+                    "attributes": {
+                        "x": "0",
+                        "y": "0",
+                        "fill": "black",
+                        "width": "500",
+                        "height": "500",
+                        "bbox": [
+                            [
+                                0.0,
+                                0.0
+                            ],
+                            [
+                                100.0,
+                                0.0
+                            ],
+                            [
+                                0.0,
+                                20.0
+                            ],
+                            [
+                                100.0,
+                                20.0
+                            ]
+                        ]
+                    },
+                    "text_content": "hello",
+                    "level": 1,
+                    "layer": "0_1",
+                    "visible": true
                 }
             },
             "svg/svg/line": {
@@ -44,7 +112,7 @@
                     },
                     "text_content": null,
                     "level": 1,
-                    "layer": "0_0",
+                    "layer": "0_2",
                     "visible": true
                 }
             },
@@ -64,11 +132,7 @@
                             ],
                             [
                                 60.0,
-                                450.0
-                            ],
-                            [
-                                60.0,
-                                510.0
+                                480.0
                             ],
                             [
                                 30.0,
@@ -78,7 +142,7 @@
                     },
                     "text_content": null,
                     "level": 1,
-                    "layer": "0_1",
+                    "layer": "0_3",
                     "visible": true
                 }
             },
@@ -97,11 +161,7 @@
                             ],
                             [
                                 450.0,
-                                10.0
-                            ],
-                            [
-                                450.0,
-                                50.0
+                                30.0
                             ],
                             [
                                 400.0,
@@ -111,7 +171,7 @@
                     },
                     "text_content": null,
                     "level": 1,
-                    "layer": "0_2",
+                    "layer": "0_4",
                     "visible": true
                 }
             },
@@ -143,7 +203,7 @@
                     },
                     "text_content": null,
                     "level": 1,
-                    "layer": "0_3",
+                    "layer": "0_5",
                     "visible": true
                 }
             },
@@ -156,7 +216,7 @@
                     },
                     "text_content": "",
                     "level": 1,
-                    "layer": "0_4",
+                    "layer": "0_6",
                     "visible": false
                 }
             },
@@ -206,7 +266,7 @@
                     },
                     "text_content": null,
                     "level": 2,
-                    "layer": "0_4_4",
+                    "layer": "0_6_6",
                     "visible": true
                 }
             },
@@ -355,7 +415,7 @@
                     },
                     "text_content": null,
                     "level": 2,
-                    "layer": "0_4_5",
+                    "layer": "0_6_7",
                     "visible": true
                 }
             },
@@ -405,7 +465,7 @@
                     },
                     "text_content": null,
                     "level": 2,
-                    "layer": "0_4_6",
+                    "layer": "0_6_8",
                     "visible": true
                 }
             },
@@ -419,7 +479,7 @@
                     },
                     "text_content": "",
                     "level": 1,
-                    "layer": "0_5",
+                    "layer": "0_7",
                     "visible": false
                 }
             },
@@ -433,7 +493,7 @@
                     },
                     "text_content": "",
                     "level": 2,
-                    "layer": "0_5_5",
+                    "layer": "0_7_7",
                     "visible": false
                 }
             },
@@ -447,7 +507,7 @@
                     },
                     "text_content": "",
                     "level": 3,
-                    "layer": "0_5_5_5",
+                    "layer": "0_7_7_7",
                     "visible": false
                 }
             },
@@ -480,7 +540,7 @@
                     },
                     "text_content": null,
                     "level": 4,
-                    "layer": "0_5_5_5_5",
+                    "layer": "0_7_7_7_7",
                     "visible": true
                 }
             },
@@ -512,7 +572,7 @@
                     },
                     "text_content": null,
                     "level": 3,
-                    "layer": "0_5_5_6",
+                    "layer": "0_7_7_8",
                     "visible": true
                 }
             },
@@ -543,7 +603,7 @@
                     },
                     "text_content": null,
                     "level": 2,
-                    "layer": "0_5_6",
+                    "layer": "0_7_8",
                     "visible": true
                 }
             },
@@ -574,12 +634,22 @@
                     },
                     "text_content": null,
                     "level": 2,
-                    "layer": "0_5_7",
+                    "layer": "0_7_9",
                     "visible": true
                 }
             }
         },
         "Edges": [
+            [
+                "svg/svg",
+                "svg/svg/text",
+                {}
+            ],
+            [
+                "svg/svg",
+                "svg/svg/text_1",
+                {}
+            ],
             [
                 "svg/svg",
                 "svg/svg/line",
@@ -609,6 +679,22 @@
                 "svg/svg",
                 "svg/svg/g_1",
                 {}
+            ],
+            [
+                "svg/svg/text",
+                "svg/svg/text_1",
+                {
+                    "color": "blue",
+                    "style": "solid"
+                }
+            ],
+            [
+                "svg/svg/text_1",
+                "svg/svg/line",
+                {
+                    "color": "blue",
+                    "style": "solid"
+                }
             ],
             [
                 "svg/svg/line",
