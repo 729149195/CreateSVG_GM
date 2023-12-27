@@ -132,16 +132,19 @@ class SVGParser:
 
     @staticmethod
     def parse_path_d_attribute(d_attribute):  #返回两个列表：Pcode包含所有的路径指令，Pnums包含与每个指令相对应的参数列表
-        path_commands = re.findall(r"([a-zA-Z])([^a-zA-Z]*)", d_attribute)
+        # print(d_attribute)
+        # 匹配路径命令和后续的参数，只包括有效的SVG路径命令
+        path_commands = re.findall(r"([MLHVCSQTAZmlhvcsqtaz])([^MLHVCSQTAZmlhvcsqtaz]*)", d_attribute)
         Pcode, Pnums = [], []
 
         for command, params in path_commands:
             Pcode.append(command)
-            params_list = [
-                param.strip() for param in re.split(r"[ ,]+", params.strip()) if param
-            ]
+            params_list = re.findall(r"[-+]?[0-9]*\.?[0-9]+(?:e[-+]?[0-9]+)?", params, re.IGNORECASE)
             Pnums.append(params_list)
 
+            # print("command:", Pcode)
+            # print("Params:", Pnums)
+            # print("Length of Params:", len(Pnums))
         return Pcode, Pnums
 
 
@@ -176,8 +179,13 @@ class SVGParser:
         path_points = []
 
         for command, params in zip(Pcode, Pnums):
-            params = [float(p) for p in params]
+            # 确保所有参数都被转换为浮点数，处理科学计数法
+            params = [float(p) for p in params if p.strip()]
 
+            # print("command:", command)
+            # print("Params:", params)
+            # print("Length of Params:", len(params))
+        
             # 处理移动命令
             if command == "M":
                 current_point = np.array(params).reshape(-1, 2)[0]
@@ -576,12 +584,13 @@ class SVGParser:
     def run(self):
         svg_root = SVGParser.parse_svg(self.file_path)
         self.build_graph(svg_root)
-        pos = SVGParser.compute_layout_with_progress(self.graph)
-        SVGParser.visualize_graph(self.graph, pos)
+        # pos = SVGParser.compute_layout_with_progress(self.graph)
+        # SVGParser.visualize_graph(self.graph, pos)
         self.write_output()
 
 
     def write_output(self):
+        
         output = {
             "DiGraph": {
                 "nodes": self.graph.number_of_nodes(),
@@ -610,6 +619,6 @@ class SVGParser:
             output["DiGraph"]["Edges"].append((u, v, data))
 
         # 使用json模块写入文件
-        with open("GMinfo.json", "w") as file:
+        with open("./GMoutput/GMinfo.json", "w", encoding='utf-8') as file:
             json.dump(output, file, ensure_ascii=False, indent=4)
  
