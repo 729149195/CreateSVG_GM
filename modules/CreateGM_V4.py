@@ -13,10 +13,102 @@ class SVGParser:
         self.existing_tags = {}
 
     @staticmethod
-    def parse_svg(file_path):
-        tree = ET.parse(file_path)
-        return tree.getroot()
+    def escape_text_content(svg_content):
+        def replacer(match):
+            # 获取整个匹配的 <text>...</text> 内容
+            text_with_tags = match.group(0)
+            # 直接提取 <text> 标签内的内容（不使用后视断言）
+            # 提取开始标签结束和结束标签开始之间的内容
+            start_tag_end = text_with_tags.find('>') + 1
+            end_tag_start = text_with_tags.rfind('<')
+            text_content = text_with_tags[start_tag_end:end_tag_start]
 
+            # 转义文本内容
+            escaped_content = SVGParser.escape_special_xml_chars(text_content)
+            # 重新构造带有转义文本内容的 <text> 元素
+            return text_with_tags[:start_tag_end] + escaped_content + text_with_tags[end_tag_start:]
+        
+        return re.sub(r'<text[^>]*>.*?</text>', replacer, svg_content, flags=re.DOTALL)
+
+    @staticmethod
+    def escape_special_xml_chars(svg_content):
+        svg_content = re.sub(r'&(?!(amp;|lt;|gt;|quot;|apos;))', '&amp;', svg_content)
+        # svg_content = svg_content.replace("<", "&lt;")
+        # svg_content = svg_content.replace(">", "&gt;")
+        # svg_content = svg_content.replace('"', "&quot;")
+        # svg_content = svg_content.replace("'", "&apos;")
+        return svg_content
+
+    # 定义各种元素类型的坐标属性
+    coordinate_attrs = {
+            "circle": ["cx", "cy", "r"],
+            "ellipse": ["cx", "cy", "rx", "ry"],
+            "rect": ["x", "y", "width", "height"],
+            "line": ["x1", "y1", "x2", "y2","dy"],
+            # "polyline": ["points"],
+            # "polygon": ["points"],
+            "text": ["x", "y", "dy"],
+            "image": ["x", "y", "width", "height"],
+            # path元素的d属性在之后做特殊处理
+        }
+        
+    @staticmethod
+    def convert_units(value, context_size=16):
+        # 检查是否为纯数字（无单位）
+        if value.isdigit():
+            return value  # 如果是，直接返回该数字
+
+        # 尝试进行单位转换
+        try:
+            num = float(re.findall(r'[\d\.]+', value)[0])
+            if 'px' in value:
+                return num  # 像素值不需要转换
+            elif 'pt' in value:
+                return num * 1.33  # 1pt = 1.33px
+            elif 'pc' in value:
+                return num * 16  # 1pc = 16px
+            elif 'mm' in value:
+                return num * 3.78  # 1mm ≈ 3.78px
+            elif 'cm' in value:
+                return num * 37.8  # 1cm = 10mm = 37.8px
+            elif 'in' in value:
+                return num * 96  # 1in = 96px
+            elif 'em' in value or 'rem' in value:
+                return num * context_size  # 假定1em或1rem = context_size px
+            # 如果没有单位或不是以上单位之一，返回原数值
+            return num
+            # ...
+            return num  # 如果没有单位或不是已知单位，返回原数值
+        except (ValueError, IndexError):
+            return value  # 如果转换出错，返回原始值
+        
+    @staticmethod
+    def parse_svg(file_path):
+        # 读取SVG文件
+        with open(file_path, 'r', encoding='utf-8') as file:
+            svg_content = file.read()
+
+        # 预处理：转义 <text> 内的特殊字符
+        svg_content = SVGParser.escape_text_content(svg_content)
+
+        # print(svg_content)
+        # 解析SVG内容
+        tree = ET.ElementTree(ET.fromstring(svg_content))
+        root = tree.getroot()
+        
+        # 遍历所有元素进行单位转换
+        for element in root.iter():
+            tag = element.tag.split('}')[-1]  # 获取无命名空间的标签名
+            if tag in SVGParser.coordinate_attrs:  # 检查元素是否在我们的属性字典中
+                for attr in SVGParser.coordinate_attrs[tag]:  # 遍历需要转换单位的属性
+                    if attr in element.attrib:  # 如果属性存在
+                        # 对属性值进行单位转换并更新
+                        element.attrib[attr] = str(SVGParser.convert_units(element.attrib[attr]))
+
+        return root
+    
+
+    
     @staticmethod
     def default_attributes(tag): #提供默认属性，确保在解析和绘制过程中的一致性和完整性
         default_attrs = {
@@ -32,24 +124,13 @@ class SVGParser:
             # 添加更多元素类型及其默认属性
         }
         return default_attrs.get(tag, {}) #若找不到对应的tag，则返回{}空对象
-
+    
     @staticmethod
     def get_coordinate_attributes(element, tag):
-        # 定义各种元素类型的坐标属性
-        coordinate_attrs = {
-            "circle": ["cx", "cy", "r"],
-            "ellipse": ["cx", "cy", "rx", "ry"],
-            "rect": ["x", "y", "width", "height"],
-            "line": ["x1", "y1", "x2", "y2"],
-            "polyline": ["points"],
-            "polygon": ["points"],
-            "text": ["x", "y"],
-            "image": ["x", "y", "width", "height"],
-            # path元素的d属性在之后做特殊处理
-        }
+        
 
         # 获取元素类型的坐标属性列表
-        attrs_list = coordinate_attrs.get(tag, [])
+        attrs_list = SVGParser.coordinate_attrs.get(tag, [])
 
         # 提取坐标属性
         coordinates = {}
@@ -58,20 +139,6 @@ class SVGParser:
             coordinates[attr] = value
 
         return coordinates
-
-    def convert_units(self, value, context_size=16):
-
-        if isinstance(value, str):  # 确保值为字符串
-            if value.endswith("em"):
-                return float(value[:-2]) * context_size
-            elif value.endswith("px"):
-                return float(value[:-2])
-            elif value.endswith("pt"):
-                # 1pt = 1/72 of 1in, and assuming 96px per 1in, hence 1.33px in 1pt
-                return float(value[:-2]) * 1.33
-            # 这里可以继续添加其他单位的转换逻辑
-        # 如果没有单位或者值不是字符串，返回原始值
-        return value
 
 
     def extract_element_info(self, element, existing_tags):  #从一个SVG元素中提取所有重要的信息，包括标签、属性和文本内容
@@ -583,6 +650,7 @@ class SVGParser:
 
     def run(self):
         svg_root = SVGParser.parse_svg(self.file_path)
+                
         self.build_graph(svg_root)
         # pos = SVGParser.compute_layout_with_progress(self.graph)
         # SVGParser.visualize_graph(self.graph, pos)

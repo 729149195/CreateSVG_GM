@@ -1000,8 +1000,7 @@
         <text transform="translate(0, 3920)">
             Sankey diagram
             This Sankey diagram visualizes the flow of energy: supplies are on the left, and demands are on the right.
-            Links show how varying amounts of energy are converted or transmitted before being consumed or lost. Data:
-            Department of Energy & Climate Change via Tom Counsell
+            Links show how varying amounts of energy are converted or transmitted before being consumed or lost. Data:Department of Energy & Climate Change via Tom Counsell
         </text>
         <a transform="translate(0, 3930)"
             xlink:href="https://observablehq.com/@d3/sankey/2?intent=fork"><text>url</text></a>
