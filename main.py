@@ -1,4 +1,4 @@
-import modules.CreateGM_V4  as CreateGM
+import modules.CreateGM  as CreateGM
 import os
 
 # 设定SVG文件所在的目录

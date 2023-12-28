@@ -156,7 +156,7 @@ def visualize_graph(graph, pos):
     fig.show()
 
 if __name__ == "__main__":
-    svg_file_path = "./map.svg"
+    svg_file_path = "./TEST/testSVG.svg"
     svg_root = parse_svg(svg_file_path)
     graph = build_graph(svg_root)
 
