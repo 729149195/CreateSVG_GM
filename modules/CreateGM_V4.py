@@ -140,6 +140,21 @@ class SVGParser:
 
         return coordinates
 
+    def combine_transforms(self, inherited_transform, own_transform):
+        # 计算总的 transform
+        total_transform = {
+            "translate": [sum(x) for x in zip(inherited_transform.get("translate", [0, 0]), own_transform.get("translate", [0, 0]))],
+            "rotate": inherited_transform.get("rotate", 0) + own_transform.get("rotate", 0),
+            "scale": [
+                inherited_transform.get("scale", [1, 1])[0] * own_transform.get("scale", [1, 1])[0],
+                inherited_transform.get("scale", [1, 1])[1] * own_transform.get("scale", [1, 1])[1]
+            ]
+        }
+
+        # 格式化合并后的 transform 为字符串
+        combined_transform_str = f"translate({total_transform['translate'][0]}, {total_transform['translate'][1]}) rotate({total_transform['rotate']}) scale({total_transform['scale'][0]}, {total_transform['scale'][1]})"
+        return combined_transform_str
+
 
     def extract_element_info(self, element, existing_tags):  #从一个SVG元素中提取所有重要的信息，包括标签、属性和文本内容
         tag_with_namespace = element.tag
@@ -336,40 +351,44 @@ class SVGParser:
             return float(num_part.group(1)) if num_part else 0.0
         
     def get_element_bbox(self, element, parent_transform=np.identity(3)):  #用于计算SVG元素的定界框（Bounding Box）
+        # for child in element:
+        #     print(child.tag, child.attrib)  # 输出子元素的标签和属性
+        # print(parent_transform)
         tag = element.tag.split('}')[-1]
         bbox = None
+        
 
         # 处理不同类型的 SVG 元素以获取其原始定界框
         if tag == "rect":
             x, y, width, height = map(
                 self.convert_to_float,
                 [
-                    element.get("x", 0),
-                    element.get("y", 0),
-                    element.get("width", 0),
-                    element.get("height", 0),
+                    parent_transform.get("x", 0),
+                    parent_transform.get("y", 0),
+                    parent_transform.get("width", 0),
+                    parent_transform.get("height", 0),
                 ],
             )
             bbox = np.array([[x, x+width], [y, y+height], [x+width/2, y+height/2]])
 
         elif tag == "circle":
-            cx, cy, r = map(self.convert_to_float, [element.get("cx", 0), element.get("cy", 0), element.get("r", 0)])
+            cx, cy, r = map(self.convert_to_float, [parent_transform.get("cx", 0), parent_transform.get("cy", 0), parent_transform.get("r", 0)])
             bbox = np.array([[cx-r, cx+r], [cy-r,cy+r], [cx,cy]])
 
         elif tag == "path":
-            d_attribute = element.get("d", "")
+            d_attribute = parent_transform.get("d", "")
             bbox = SVGParser.get_path_points(d_attribute)
 
         # 处理线段
         elif tag == "line":
-            x1, y1, x2, y2 = map(self.convert_to_float, [element.get("x1", 0), element.get("y1", 0), 
-                                         element.get("x2", 0), element.get("y2", 0)])
+            x1, y1, x2, y2 = map(self.convert_to_float, [parent_transform.get("x1", 0), parent_transform.get("y1", 0), 
+                                         parent_transform.get("x2", 0), parent_transform.get("y2", 0)])
             bbox = np.array([[x1, x2], [y1, y2], [(x1+x2)/2, (y1+y2)/2]])
 
         # 处理椭圆
         elif tag == "ellipse":
-            cx, cy, rx, ry = map(self.convert_to_float, [element.get("cx", 0), element.get("cy", 0), 
-                                         element.get("rx", 0), element.get("ry", 0)])
+            cx, cy, rx, ry = map(self.convert_to_float, [parent_transform.get("cx", 0), parent_transform.get("cy", 0), 
+                                         parent_transform.get("rx", 0), parent_transform.get("ry", 0)])
             bbox = np.array([[cx-rx, cx+rx], [cy-ry,cy+ry], [cx,cy]])
 
         # 处理多边形和折线元素
@@ -386,20 +405,20 @@ class SVGParser:
                 bbox = np.array(points_array)
                 
         elif tag == "text":
-            x, y = map(self.convert_to_float, [element.get("x", 0), element.get("y", 0)])
+            x, y = map(self.convert_to_float, [parent_transform.get("x", 0), parent_transform.get("y", 0)])
             # 这里假设一个默认的宽度和高度，因为无法精确计算
             width, height = 100, 20  # 默认值，可根据需要调整
             bbox = np.array([[x, y], [x + width, y], [x, y + height], [x + width, y + height]])
 
         elif tag == "image":
-            x, y, width, height = map(self.convert_to_float, [element.get("x", 0), element.get("y", 0),
-                                             element.get("width", 0), element.get("height", 0)])
+            x, y, width, height = map(self.convert_to_float, [parent_transform.get("x", 0), parent_transform.get("y", 0),
+                                             parent_transform.get("width", 0), parent_transform.get("height", 0)])
             bbox = np.array([[x, y], [x + width, y], [x, y + height], [x + width, y + height]])
 
         # 应用解析后的 transform 到定界框
-        if bbox is not None and element.get("transform"):
+        if bbox is not None and parent_transform.get("transform"):
             # 解析元素自身的 transform 属性
-            element_transform = self.parse_transform(element.get("transform", ""))
+            element_transform = self.parse_transform(parent_transform.get("transform", ""))
 
             # 应用解析后的 transform 到定界框
             bbox = self.apply_transform(bbox, element_transform)
@@ -445,29 +464,23 @@ class SVGParser:
             inherited_attrs={},
             layer_counter=0,
         ):
-            tag, attributes, text_content = SVGParser.extract_element_info(
-                self, element, self.existing_tags
-            )
+            # 提取元素信息，包括标签、属性和文本内容
+            tag, attributes, text_content = self.extract_element_info(element, self.existing_tags)
 
             combined_attributes = {**attributes, **inherited_attrs}
-            # 合并 transform 属性
+           # 如果元素或继承属性中有 transform，则进行合并
             if "transform" in attributes or "transform" in inherited_attrs:
                 inherited_transform = self.parse_transform(inherited_attrs.get('transform', ''))
                 own_transform = self.parse_transform(attributes.get('transform', ''))
+                # 调用 combine_transforms 方法进行 transform 的合并
+                combined_attributes['transform'] = self.combine_transforms(inherited_transform, own_transform)
 
-                # 计算总的 transform
-                total_transform = {
-                    "translate": [sum(x) for x in zip(inherited_transform["translate"], own_transform["translate"])],
-                    "rotate": inherited_transform["rotate"] + own_transform["rotate"],
-                    "scale": [inherited_transform["scale"][0] * own_transform["scale"][0], inherited_transform["scale"][1] * own_transform["scale"][1]]
-                }
-
-                combined_attributes['transform'] = f"translate({total_transform['translate'][0]}, {total_transform['translate'][1]}) rotate({total_transform['rotate']}) scale({total_transform['scale'][0]}, {total_transform['scale'][1]})"
-
+            # print(combined_attributes)
             # 计算bbox并添加到combined_attributes
             bbox = self.get_element_bbox(element, combined_attributes)
             if bbox is not None:
                 combined_attributes['bbox'] = bbox.tolist()  # 转换为列表
+                
             node_id = f"{parent_path}/{tag}" if parent_path else tag
             is_visible = tag.split("_")[0] not in [
                 "svg",
