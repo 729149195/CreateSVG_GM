@@ -370,6 +370,10 @@ class SVGParser:
                 ],
             )
             bbox = np.array([[x, x+width], [y, y+height], [x+width/2, y+height/2]])
+            
+        elif tag == "svg":
+            width, height = map(self.convert_to_float, [parent_transform.get("width", 0), parent_transform.get("height", 0)])
+            bbox = np.array([[width, height], [width/2, height/2]])
 
         elif tag == "circle":
             cx, cy, r = map(self.convert_to_float, [parent_transform.get("cx", 0), parent_transform.get("cy", 0), parent_transform.get("r", 0)])

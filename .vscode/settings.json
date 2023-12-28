@@ -1,3 +1,4 @@
 {
-    "window.density.editorTabHeight": "default"
+    "window.density.editorTabHeight": "default",
+    "svg.preview.background": "editor"
 }
