@@ -1,4 +1,6 @@
 import modules.CreateGM  as CreateGM
+import modules.TestGM_bbox as TestGM_bbox
+
 import os
 
 # 设定SVG文件所在的目录
@@ -18,3 +20,9 @@ svg_parser.run()
 #         svg_parser.run()
 
 # print("All SVG files processed.")
+
+# drawer = SVGDrawer(test_directory)
+# drawer.draw_svg_elements()
+
+drawer = TestGM_bbox.SVGDrawer("./GMoutput/GMinfo.json")
+drawer.run()

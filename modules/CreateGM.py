@@ -365,14 +365,15 @@ class SVGParser:
                 [
                     parent_transform.get("x", 0),
                     parent_transform.get("y", 0),
-                    parent_transform.get("width", 0),
-                    parent_transform.get("height", 0),
+                    element.get("width", 0),
+                    element.get("height", 0),
                 ],
             )
             bbox = np.array([[x, x+width], [y, y+height], [x+width/2, y+height/2]])
+
             
         elif tag == "svg":
-            width, height = map(self.convert_to_float, [parent_transform.get("width", 0), parent_transform.get("height", 0)])
+            width, height = map(self.convert_to_float, [element.get("width", 0), element.get("height", 0)])
             bbox = np.array([[width, height], [width/2, height/2]])
 
         elif tag == "circle":
@@ -380,7 +381,7 @@ class SVGParser:
             bbox = np.array([[cx-r, cx+r], [cy-r,cy+r], [cx,cy]])
 
         elif tag == "path":
-            d_attribute = parent_transform.get("d", "")
+            d_attribute = element.get("d", "")
             bbox = SVGParser.get_path_points(d_attribute)
 
         # 处理线段
@@ -411,12 +412,12 @@ class SVGParser:
         elif tag == "text":
             x, y = map(self.convert_to_float, [parent_transform.get("x", 0), parent_transform.get("y", 0)])
             # 这里假设一个默认的宽度和高度，因为无法精确计算
-            width, height = 100, 20  # 默认值，可根据需要调整
+            width, height = 100, 16  # 默认值，可根据需要调整
             bbox = np.array([[x, y], [x + width, y], [x, y + height], [x + width, y + height]])
 
         elif tag == "image":
             x, y, width, height = map(self.convert_to_float, [parent_transform.get("x", 0), parent_transform.get("y", 0),
-                                             parent_transform.get("width", 0), parent_transform.get("height", 0)])
+                                             element.get("width", 0), element.get("height", 0)])
             bbox = np.array([[x, y], [x + width, y], [x, y + height], [x + width, y + height]])
 
         # 应用解析后的 transform 到定界框
