@@ -6,7 +6,7 @@ import os
 # 设定SVG文件所在的目录
 directory = "./TEST"
 
-svg_parser = CreateGM.SVGParser("./TEST/testSVG_bbox.svg")
+svg_parser = CreateGM.SVGParser("./TEST/untitled.svg")
 svg_parser.run()
 
 # 遍历目录中的所有文件
